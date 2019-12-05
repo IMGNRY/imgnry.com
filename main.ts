@@ -3,9 +3,6 @@ import 'lazysizes'
 import Vue from 'vue'
 import App from './App'
 
-import VueCompositionApi from '@vue/composition-api'
-Vue.use(VueCompositionApi)
-
 import LoadScript from 'vue-plugin-load-script'
 Vue.use(LoadScript)
 
@@ -21,10 +18,9 @@ document.addEventListener('DOMContentLoaded', () => {
     new Vue({ render: createElement => createElement(App) }).$mount('#app')
 })
 
-document.addEventListener('lazybeforeunveil', function(e) {
-    const spinner = (e.target as HTMLImageElement).nextElementSibling as HTMLElement
-
-    if (spinner.classList.contains('spinner')) {
-        spinner.style.opacity = '0'
-    }
-})
+// document.addEventListener('lazybeforeunveil', function(e) {
+//     const spinner = (e.target as HTMLImageElement).nextElementSibling as HTMLElement
+//     if (spinner && spinner.classList.contains('spinner')) {
+//         spinner.style.opacity = '0'
+//     }
+// })
