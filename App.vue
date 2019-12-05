@@ -195,7 +195,7 @@
                 </div>
                 <div class="w-layout-grid gallery-grid _1col">
                     <lazy-img name="lazerleague-1.png"></lazy-img>
-                    <div class="gallery-image video">
+                    <div class="gallery-image video" data-trigger>
                         <div class="html-embed w-embed w-iframe">
                             <iframe
                                 frameborder="0"
