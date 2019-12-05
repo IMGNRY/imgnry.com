@@ -1,9 +1,7 @@
 {
-    "name": "imgnry4.webflow",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
+    "name": "imgnry.com",
     "dependencies": {
+        "@terwanerik/scrolltrigger": "^1.0.3",
         "@vue/composition-api": "^0.3.4",
         "lazysizes": "^5.2.0-beta1",
         "parcel": "^1.12.4",
@@ -25,8 +23,5 @@
     "scripts": {
         "dev": "rm -rf dist && npx parcel index.html --open",
         "build": "rm -rf dist && npx parcel build index.html"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC"
+    }
 }

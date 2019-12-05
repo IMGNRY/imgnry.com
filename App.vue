@@ -2,12 +2,12 @@
     <div class="projects-section">
         <div class="container-max-1320">
             <div class="project">
-                <div class="w-layout-grid project-title-row">
+                <div class="w-layout-grid project-title-row" data-trigger>
                     <div class="project-title-line"></div>
                     <h2 class="project-title">TUI</h2>
                     <div class="project-title-line"></div>
                 </div>
-                <div class="about-wrapper">
+                <div class="about-wrapper" data-trigger>
                     <a
                         data-w-id="21cc8097-8beb-dd68-cdfd-24c3b97416f6"
                         href="#"
@@ -50,7 +50,6 @@
                 </div>
                 <div class="w-layout-grid gallery-grid _1col">
                     <lazy-img name="tui-1.png"></lazy-img>
-                    <spinner></spinner>
                 </div>
                 <div class="w-layout-grid gallery-grid _1col">
                     <lazy-img name="tui-2.png"></lazy-img>
@@ -68,12 +67,12 @@
                 </div>
             </div>
             <div class="project">
-                <div class="w-layout-grid project-title-row">
+                <div class="w-layout-grid project-title-row" data-trigger>
                     <div class="project-title-line"></div>
                     <h2 class="project-title">Picular</h2>
                     <div class="project-title-line"></div>
                 </div>
-                <div class="about-wrapper">
+                <div class="about-wrapper" data-trigger>
                     <a
                         data-w-id="a73b6af2-1979-2ce9-74c9-84e6cccc42ff"
                         href="#"
@@ -144,12 +143,12 @@
                 </div>
             </div>
             <div class="project">
-                <div class="w-layout-grid project-title-row">
+                <div class="w-layout-grid project-title-row" data-trigger>
                     <div class="project-title-line"></div>
                     <h2 class="project-title">Lazer League</h2>
                     <div class="project-title-line"></div>
                 </div>
-                <div class="about-wrapper">
+                <div class="about-wrapper" data-trigger>
                     <a
                         data-w-id="2a141d78-82b3-0fc2-dbd8-88aa31a3d6e8"
                         href="#"
@@ -209,12 +208,12 @@
                 </div>
             </div>
             <div class="project">
-                <div class="w-layout-grid project-title-row">
+                <div class="w-layout-grid project-title-row" data-trigger>
                     <div class="project-title-line"></div>
                     <h2 class="project-title">Com Hem</h2>
                     <div class="project-title-line"></div>
                 </div>
-                <div class="about-wrapper">
+                <div class="about-wrapper" data-trigger>
                     <a
                         data-w-id="85203fd8-ee9d-200c-26c3-29909e0d7e42"
                         href="#"
@@ -269,12 +268,12 @@
                 </div>
             </div>
             <div class="project">
-                <div class="w-layout-grid project-title-row">
+                <div class="w-layout-grid project-title-row" data-trigger>
                     <div class="project-title-line"></div>
                     <h2 class="project-title"><strong>Toca Boca</strong></h2>
                     <div class="project-title-line"></div>
                 </div>
-                <div class="about-wrapper">
+                <div class="about-wrapper" data-trigger>
                     <a
                         data-w-id="47502ef1-2e86-8c52-30e2-ad5b872df8c6"
                         href="#"
@@ -333,12 +332,12 @@
                 </div>
             </div>
             <div class="project">
-                <div class="w-layout-grid project-title-row">
+                <div class="w-layout-grid project-title-row" data-trigger>
                     <div class="project-title-line"></div>
                     <h2 class="project-title"><strong>Holy Hand Grenade</strong></h2>
                     <div class="project-title-line"></div>
                 </div>
-                <div class="about-wrapper">
+                <div class="about-wrapper" data-trigger>
                     <a
                         data-w-id="48f49937-86c7-881e-2223-11f9144d0042"
                         href="#"
@@ -403,12 +402,12 @@
                 </div>
             </div>
             <div class="project">
-                <div class="w-layout-grid project-title-row">
+                <div class="w-layout-grid project-title-row" data-trigger>
                     <div class="project-title-line"></div>
                     <h2 class="project-title">Nordea</h2>
                     <div class="project-title-line"></div>
                 </div>
-                <div class="about-wrapper">
+                <div class="about-wrapper" data-trigger>
                     <a
                         data-w-id="74d0f95a-1198-abea-1830-d60bcd12dc07"
                         href="#"
@@ -467,12 +466,12 @@
                 </div>
             </div>
             <div class="project">
-                <div class="w-layout-grid project-title-row">
+                <div class="w-layout-grid project-title-row" data-trigger>
                     <div class="project-title-line"></div>
                     <h2 class="project-title">Most Wanted</h2>
                     <div class="project-title-line"></div>
                 </div>
-                <div class="about-wrapper">
+                <div class="about-wrapper" data-trigger>
                     <a
                         data-w-id="c749924a-4fb5-b5a3-8583-79e1a0199a53"
                         href="#"
@@ -526,12 +525,12 @@
                 </div>
             </div>
             <div class="project">
-                <div class="w-layout-grid project-title-row">
+                <div class="w-layout-grid project-title-row" data-trigger>
                     <div class="project-title-line"></div>
                     <h2 class="project-title"><strong>Wars</strong></h2>
                     <div class="project-title-line"></div>
                 </div>
-                <div class="about-wrapper">
+                <div class="about-wrapper" data-trigger>
                     <a
                         data-w-id="4ac542d6-8f37-2f2c-9435-4dda8e7da794"
                         href="#"
@@ -588,12 +587,12 @@
                 </div>
             </div>
             <div class="project">
-                <div class="w-layout-grid project-title-row">
+                <div class="w-layout-grid project-title-row" data-trigger>
                     <div class="project-title-line"></div>
                     <h2 class="project-title"><strong>Samsung</strong></h2>
                     <div class="project-title-line"></div>
                 </div>
-                <div class="about-wrapper">
+                <div class="about-wrapper" data-trigger>
                     <a
                         data-w-id="3a0b7631-8fb2-f623-e287-baa156c124ae"
                         href="#"
@@ -631,12 +630,12 @@
                 </div>
             </div>
             <div class="project">
-                <div class="w-layout-grid project-title-row">
+                <div class="w-layout-grid project-title-row" data-trigger>
                     <div class="project-title-line"></div>
                     <h2 class="project-title">Systembolaget</h2>
                     <div class="project-title-line"></div>
                 </div>
-                <div class="about-wrapper">
+                <div class="about-wrapper" data-trigger>
                     <a
                         data-w-id="157f51e7-df97-80b0-f08e-fce6a071cfd9"
                         href="#"
@@ -690,13 +689,30 @@
                 </div>
             </div>
             <div class="project">
-                <div class="w-layout-grid project-title-row">
+                <div class="w-layout-grid project-title-row" data-trigger>
                     <div class="project-title-line"></div>
                     <h2 class="project-title">Logos</h2>
                     <div class="project-title-line"></div>
                 </div>
                 <div class="w-layout-grid gallery-grid logos">
-                    <lazy-img v-for="name in ['imgnry', 'picular', 'kelb', 'indiegame', 'pieceoffantastic', 'comhem', 'mostwanted', 'rainbowrockin', 'guldvarg', 'forceprotection', 'flavors', 'babyspot']" :name="`logos-${name}.png`" :key="name"></lazy-img>
+                    <lazy-img
+                        v-for="name in [
+                            'imgnry',
+                            'picular',
+                            'kelb',
+                            'indiegame',
+                            'pieceoffantastic',
+                            'comhem',
+                            'mostwanted',
+                            'rainbowrockin',
+                            'guldvarg',
+                            'forceprotection',
+                            'flavors',
+                            'babyspot'
+                        ]"
+                        :name="`logos-${name}.png`"
+                        :key="name"
+                    ></lazy-img>
                 </div>
             </div>
         </div>
@@ -710,12 +726,30 @@ import { Prop } from 'vue-property-decorator'
 import LazyImg from './LazyImage.vue'
 import Spinner from './Spinner.vue'
 
+import ScrollTrigger from '@terwanerik/scrolltrigger'
+
 @Component({
     components: { LazyImg, Spinner }
 })
 export default class App extends Vue {
     async mounted() {
         await this.$loadScript('/js/webflow.js')
+
+        const trigger = new ScrollTrigger()
+        trigger.add('[data-trigger]')
     }
 }
 </script>
+
+<style lang="scss" scoped>
+.visible,
+.invisible {
+    opacity: 0;
+    transition: all 1s ease 0.2s;
+    transform: scale(0.85) translateY(50px);
+}
+.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+</style>
