@@ -178,7 +178,7 @@
                             </p>
                         </div>
                         <div id="w-node-88aa31a3d6f8-aa056f6f" class="summary-wrapper">
-                            <h3 class="everything">Our rolE <span class="text-span">Everything</span></h3>
+                            <h3 class="everything">Our role <span class="text-span">Everything</span></h3>
                             <div class="tags-wrapper">
                                 <div class="tag">Concept</div>
                                 <div class="tag">Art Direction</div>
