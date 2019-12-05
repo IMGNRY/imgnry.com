@@ -1,9 +1,5 @@
 <template>
-    <!-- <div class="placeholder gallery-image"> -->
-    <img :src="lowResSrc" data-sizes="auto" :data-srcset="srcSets" class="lazyload gallery-image" />
-    <!-- <img class="lazyload gallery-image" /> -->
-    <!-- <img :src="lowResSrc" class="lazyload gallery-image" /> -->
-    <!-- </div> -->
+    <img :src="lowResSrc" data-sizes="auto" :data-srcset="srcSets" class="lazyload gallery-image" data-trigger />
 </template>
 
 <script lang="ts">
@@ -28,14 +24,7 @@ export default class LazyImage extends Vue {
 </script>
 
 <style lang="scss" scoped>
-img {
-    background: #212121;
-    // border-radius: 10px;
-    // width: 100%;
-    // height: 300px;
-    // border: 2px solid red;
-    // img {
-    //     opacity: 0;
-    // }
-}
+// img {
+//     background: #212121;
+// }
 </style>
