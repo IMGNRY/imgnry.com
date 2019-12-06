@@ -196,13 +196,12 @@
                 <div class="w-layout-grid gallery-grid _1col">
                     <lazy-img name="lazerleague-1.png"></lazy-img>
                     <div class="gallery-image video" data-trigger>
-                        <div class="html-embed w-embed w-iframe">
-                            <iframe
-                                frameborder="0"
-                                data-src="https://player.vimeo.com/video/317023843?background=1"
-                                class="lazyload"
-                            ></iframe>
-                        </div>
+                        <iframe
+                            frameborder="0"
+                            data-src="https://player.vimeo.com/video/317023843?background=1"
+                            class="lazyload"
+                        ></iframe>
+                        <spinner></spinner>
                     </div>
                     <lazy-img name="lazerleague-3.png"></lazy-img>
                 </div>
@@ -745,11 +744,17 @@ export default class App extends Vue {
 .visible,
 .invisible {
     opacity: 0;
-    transition: all 1s ease 0.2s;
-    transform: scale(0.85) translateY(50px);
+    transition: all 1s ease 0.1s;
+    transform: scale(0.9) translateY(50px);
 }
 .visible {
     opacity: 1;
     transform: translateY(0);
+}
+.lazyloaded + .spinner {
+    opacity: 0;
+}
+.gallery-image {
+    background: rgb(19, 19, 19);
 }
 </style>

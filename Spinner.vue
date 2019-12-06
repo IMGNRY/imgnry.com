@@ -55,9 +55,9 @@ export default Vue.extend({})
     align-items: center;
     background: rgba(0, 0, 0, 0.39);
     border-radius: 10px;
-    transition: opacity 5s;
+    transition: opacity 1s 1s;
     svg {
-        opacity: 0.5;
+        opacity: 0.6;
     }
 }
 </style>

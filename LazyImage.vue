@@ -13,7 +13,7 @@ export default class LazyImage extends Vue {
 
     get srcSets() {
         return [30, 200, 300, 400, 500, 600, 800, 1000, 1320, 1600, 2000, 2500].map(n => {
-            return `https://res.cloudinary.com/picular/image/upload/f_auto,w_${n}/imgnry/proj-${this.name} ${n}w`
+            return `https://res.cloudinary.com/picular/image/upload/f_auto,w_${n},q_95/imgnry/proj-${this.name} ${n}w`
         })
     }
 
