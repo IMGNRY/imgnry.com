@@ -1,5 +1,5 @@
 <template>
-    <img :src="lowResSrc" data-sizes="auto" :data-srcset="srcSets" class="lazyload gallery-image" data-trigger />
+  <img :src="lowResSrc" data-sizes="auto" :data-srcset="srcSets" class="lazyload gallery-image" data-trigger />
 </template>
 
 <script lang="ts">
@@ -9,17 +9,18 @@ import { Prop } from 'vue-property-decorator'
 
 @Component({})
 export default class LazyImage extends Vue {
-    @Prop() name: string
+  @Prop() name: string
 
-    get srcSets() {
-        return [30, 200, 300, 400, 500, 600, 800, 1000, 1320, 1600, 2000, 2500].map(n => {
-            return `https://res.cloudinary.com/picular/image/upload/f_auto,w_${n},q_95/imgnry/proj-${this.name} ${n}w`
-        })
-    }
+  get srcSets() {
+    return [30, 200, 300, 400, 500, 600, 800, 1000, 1320, 1600, 2000, 2500].map(n => {
+      return `https://res.cloudinary.com/picular/image/upload/f_auto,w_${n},q_95/imgnry/refreshed/p-${this.name} ${n}w`
+      // return `https://res.cloudinary.com/picular/image/upload/f_auto,w_${n},q_95/imgnry/proj-${this.name} ${n}w`
+    })
+  }
 
-    get lowResSrc() {
-        return this.srcSets[0].split(' ')[0]
-    }
+  get lowResSrc() {
+    return this.srcSets[0].split(' ')[0]
+  }
 }
 </script>
 
