@@ -513,7 +513,7 @@ html.w-mod-js *[data-ix='fadeinonload2'] {
     margin-left: 24px;
   }
   .project-title {
-    /* font-size: 40px; */
+    font-size: 40px;
     letter-spacing: 1px;
   }
   .project-title-row {
