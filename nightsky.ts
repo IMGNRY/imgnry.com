@@ -1,26 +1,29 @@
 import { random } from './tools'
 import * as PIXI from 'pixi.js'
-import { RGBSplitFilter } from '@pixi/filter-rgb-split'
-import { AdvancedBloomFilter } from '@pixi/filter-advanced-bloom'
 
 const PREF = {
   TARGET_ELEMENT_SELECTOR: '.night-sky-container',
-  STAR_MAX_ALPHA_VELOCITY: 0.005,
+  STAR_MAX_ALPHA_VELOCITY: 0.02,
+  //   STAR_MAX_ALPHA_VELOCITY: 0.005,
   STAR_BIRTH_INTERVAL: 10,
-  STAR_COUNT: 300,
+  STAR_COUNT: 200,
   METEOR_VELOCITY: 35,
   METEOR_BIRTH_INTERVAL_RANGE: { MIN: 0, MAX: 5000 },
   METEOR_START_LENGTH_MOD: 10,
-  TEXTURE_ASSETS_BASE_URL: 'https://res.cloudinary.com/picular/image/upload/night-sky-textures',
+  //   TEXTURE_ASSETS_BASE_URL: 'https://res.cloudinary.com/picular/image/upload/night-sky-textures',
 }
 
 const texture = (filename: string) => {
-  return PIXI.Texture.from(`${PREF.TEXTURE_ASSETS_BASE_URL}/${filename}`)
+  return PIXI.Texture.from(`/textures/${filename}`)
+  //   return PIXI.Texture.from(`${PREF.TEXTURE_ASSETS_BASE_URL}/${filename}`)
 }
+
+// PIXI.settings.ANISOTROPIC_LEVEL = 16
 
 window.addEventListener('DOMContentLoaded', async () => {
   const nightSkyContainer = document.querySelector(PREF.TARGET_ELEMENT_SELECTOR)
   const containerRect = nightSkyContainer.getBoundingClientRect()
+  console.log('window.devicePixelRatio', window.devicePixelRatio)
   const app = new PIXI.Application({
     transparent: true,
     width: containerRect.width,
@@ -38,7 +41,7 @@ window.addEventListener('DOMContentLoaded', async () => {
   //   ]
 
   // fade in
-  app.stage.alpha = 0
+  //   app.stage.alpha = 0
   // const starFieldBgDiv = document.querySelector('.starfield-background') as HTMLDivElement
   // const revealStarFieldBgDiv = () => {
   //     const opacity = Number(starFieldBgDiv.style.opacity)
@@ -73,7 +76,7 @@ window.addEventListener('DOMContentLoaded', async () => {
   // stars
   interface Star extends PIXI.Sprite {
     alphaVelocity: number
-    scaleMax: number
+    // scaleMax: number
   }
   const starTexture = texture('star.png')
   const stars: Star[] = []
@@ -84,8 +87,8 @@ window.addEventListener('DOMContentLoaded', async () => {
     star.y = randomScreenY()
     star.alphaVelocity = random(-PREF.STAR_MAX_ALPHA_VELOCITY, PREF.STAR_MAX_ALPHA_VELOCITY)
     star.alpha = 0
-    star.scaleMax = Math.random().remap([0, 1], [0.1, 0.3])
-    star.scale.set(0)
+    // star.scaleMax = Math.random().remap([0, 1], [0.1, 0.3])
+    star.scale.set(Math.random().remap([0, 1], [0.4, 0.8]))
     app.stage.addChild(star)
     stars.push(star)
     if (stars.length == PREF.STAR_COUNT) {
@@ -171,7 +174,7 @@ window.addEventListener('DOMContentLoaded', async () => {
         star.alphaVelocity = -star.alphaVelocity
       }
       star.alpha += star.alphaVelocity
-      star.scale.set(Math.min(star.scale.x + star.alphaVelocity, star.scaleMax))
+      //   star.scale.set(Math.min(star.scale.x + star.alphaVelocity, star.scaleMax))
     })
 
     // meteor
