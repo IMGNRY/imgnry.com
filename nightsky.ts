@@ -3,7 +3,7 @@ import * as PIXI from 'pixi.js'
 
 const PREF = {
   TARGET_ELEMENT_SELECTOR: '.night-sky-container',
-  STAR_MAX_ALPHA_VELOCITY: 0.02,
+  STAR_MAX_ALPHA_VELOCITY: 0.01,
   //   STAR_MAX_ALPHA_VELOCITY: 0.005,
   STAR_BIRTH_INTERVAL: 10,
   STAR_COUNT: 200,
