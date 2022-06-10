@@ -32,10 +32,10 @@ window.addEventListener('DOMContentLoaded', async () => {
   app.renderer.view.style.touchAction = 'auto'
 
   // screen fx
-  app.stage.filters = [
-    new RGBSplitFilter(new PIXI.Point(-0.5, -0.5), new PIXI.Point(1, -0.5), new PIXI.Point(-1, 0.5)),
-    new AdvancedBloomFilter({ threshold: 0.6, blur: 3, bloomScale: 4, brightness: 1 }),
-  ]
+  //   app.stage.filters = [
+  //     new RGBSplitFilter(new PIXI.Point(-0.5, -0.5), new PIXI.Point(1, -0.5), new PIXI.Point(-1, 0.5)),
+  //     new AdvancedBloomFilter({ threshold: 0.6, blur: 3, bloomScale: 4, brightness: 1 }),
+  //   ]
 
   // fade in
   app.stage.alpha = 0
@@ -106,7 +106,7 @@ window.addEventListener('DOMContentLoaded', async () => {
   meteor.scale.y = PREF.METEOR_START_LENGTH_MOD
   meteor.y = -meteor.height
   meteor.visible = false
-  meteor.filters = [new AdvancedBloomFilter({ threshold: 0.2, blur: 12, bloomScale: 2, brightness: 1 })]
+  //   meteor.filters = [new AdvancedBloomFilter({ threshold: 0.2, blur: 12, bloomScale: 2, brightness: 1 })]
   meteorAnchor.addChild(meteor)
   app.stage.addChild(meteorAnchor)
   setTimeout(() => {
