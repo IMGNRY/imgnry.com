@@ -101,6 +101,7 @@ blockquote {
   font-size: 48px;
   text-align: center;
   white-space: nowrap;
+  line-height: 1;
 }
 
 .project-title-line {
