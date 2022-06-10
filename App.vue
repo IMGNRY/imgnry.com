@@ -16,17 +16,19 @@
               <img src="images/quote.svg" alt="" class="quote-character" />
               <div class="quote-text-wrapper">
                 <blockquote class="quote-text">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ad dicta impedit error ullam nesciunt exercitationem corporis quo
-                  perferendis recusandae suscipit, obcaecati labore dignissimos maxime quae doloribus odio doloremque voluptas?
+                  With an eye for detail and a comprehensive systematic approach to problem solving and design, Kristofer is a very valuable
+                  contributor to both product solutions and as a team player. His long experience is also reflected in his humble approach and very
+                  likeable personality.
                 </blockquote>
-                <div class="quote-byline">First Last, Title, Soundtrack</div>
+                <div class="quote-byline">Patrik Axelsson, VP Product, Soundtrack</div>
               </div>
             </div>
             <div class="summary-wrapper">
               <h3 class="everything">Project</h3>
               <p class="project-paragraph">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste eligendi quo doloribus alias explicabo. Porro nam eos, temporibus
-                ducimus rerum itaque labore iste ut, molestiae iusto ratione a blanditiis minus?
+                Soundtrack, known initially as Spotify For Business, is a massive music service that offers a legal way to play music in public
+                spaces. Kristofer designed the entire product for over two years. Including building a design system and streamlining the process of
+                creating over 1000 playlist cover arts.
               </p>
             </div>
             <div id="w-node-342157ea9407-aa056f6f" class="summary-wrapper">
