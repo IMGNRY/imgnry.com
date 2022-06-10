@@ -87,12 +87,12 @@ blockquote {
 }
 
 .project-title {
-  margin-bottom: 0px;
+  margin-bottom: 12px;
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
   align-self: center;
-  color: #fffaf5;
+  color: #ffd25f;
   font-size: 48px;
   text-align: center;
   white-space: nowrap;
@@ -100,7 +100,7 @@ blockquote {
 
 .project-title-line {
   width: 100%;
-  height: 1px;
+  height: 2px;
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
@@ -284,6 +284,7 @@ blockquote {
   letter-spacing: 0.3px;
   text-transform: uppercase;
   cursor: pointer;
+  /* margin-bottom: 100px; */
 }
 
 .button-email:hover {
@@ -305,6 +306,8 @@ blockquote {
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
+  font-size: 18px;
+  letter-spacing: 2px;
 }
 
 .gallery-image {
@@ -376,7 +379,7 @@ blockquote {
   position: absolute;
   display: none;
   width: 100%;
-  padding: 18px 48px;
+  padding: 24px 52px;
   border-style: solid;
   border-width: 1px;
   border-color: rgba(255, 210, 95, 0.4);
@@ -519,7 +522,7 @@ html.w-mod-js *[data-ix='fadeinonload2'] {
     margin-left: 24px;
   }
   .project-title {
-    font-size: 40px;
+    /* font-size: 40px; */
     letter-spacing: 1px;
   }
   .project-title-row {
@@ -688,9 +691,9 @@ html.w-mod-js *[data-ix='fadeinonload2'] {
     margin-right: 12px;
     margin-left: 12px;
   }
-  .project-title {
+  /* .project-title {
     font-size: 27px;
-  }
+  } */
   .project-title-row {
     margin-bottom: 12px;
     grid-column-gap: 19px;
@@ -927,6 +930,15 @@ h1 {
   text-align: center;
   margin: 0;
   margin-top: -10px;
+}
+
+@media (max-width: 720px) {
+  h1 {
+    font-size: 26px;
+    line-height: 1.5;
+    max-width: 290px;
+    margin-bottom: 10px;
+  }
 }
 
 .toca-icon {

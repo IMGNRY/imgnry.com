@@ -9,7 +9,7 @@
         </div>
         <div class="about-wrapper" data-trigger>
           <a data-w-id="21cc8097-8beb-dd68-cdfd-24c3b97416f6" href="#" class="button-about-project w-inline-block">
-            <div>About the project</div>
+            <div>DETAILS</div>
           </a>
           <div data-w-id="333849fc-cdf4-cf26-68aa-9be11dc69ae8" class="w-layout-grid project-about-section">
             <div id="w-node-342157ea93fb-aa056f6f" class="quote-wrapper">
@@ -89,7 +89,7 @@
         </div>
         <div class="about-wrapper" data-trigger>
           <a data-w-id="21cc8097-8beb-dd68-cdfd-24c3b97416f6" href="#" class="button-about-project w-inline-block">
-            <div>About the project</div>
+            <div>DETAILS</div>
           </a>
           <div data-w-id="333849fc-cdf4-cf26-68aa-9be11dc69ae8" class="w-layout-grid project-about-section">
             <div id="w-node-342157ea93fb-aa056f6f" class="quote-wrapper">
@@ -149,7 +149,7 @@
         </div>
         <div class="about-wrapper" data-trigger>
           <a data-w-id="a73b6af2-1979-2ce9-74c9-84e6cccc42ff" href="#" class="button-about-project w-inline-block">
-            <div>About the project</div>
+            <div>DETAILS</div>
           </a>
           <div data-w-id="a73b6af2-1979-2ce9-74c9-84e6cccc4302" class="w-layout-grid project-about-section">
             <div id="w-node-84e6cccc4303-aa056f6f" class="quote-wrapper">
@@ -217,7 +217,7 @@
         </div>
         <div class="about-wrapper" data-trigger>
           <a data-w-id="2a141d78-82b3-0fc2-dbd8-88aa31a3d6e8" href="#" class="button-about-project w-inline-block">
-            <div>About the project</div>
+            <div>DETAILS</div>
           </a>
           <div data-w-id="2a141d78-82b3-0fc2-dbd8-88aa31a3d6eb" class="w-layout-grid project-about-section">
             <div id="w-node-88aa31a3d6ec-aa056f6f" class="quote-wrapper">
@@ -271,7 +271,7 @@
         </div>
         <div class="about-wrapper" data-trigger>
           <a data-w-id="85203fd8-ee9d-200c-26c3-29909e0d7e42" href="#" class="button-about-project w-inline-block">
-            <div>About the project</div>
+            <div>DETAILS</div>
           </a>
           <div data-w-id="85203fd8-ee9d-200c-26c3-29909e0d7e45" class="w-layout-grid project-about-section">
             <div id="w-node-29909e0d7e46-aa056f6f" class="quote-wrapper">
@@ -325,7 +325,7 @@
         </div>
         <div class="about-wrapper" data-trigger>
           <a data-w-id="47502ef1-2e86-8c52-30e2-ad5b872df8c6" href="#" class="button-about-project w-inline-block">
-            <div>About the project</div>
+            <div>DETAILS</div>
           </a>
           <div data-w-id="47502ef1-2e86-8c52-30e2-ad5b872df8c9" class="w-layout-grid project-about-section">
             <div class="quote-wrapper">
@@ -383,7 +383,7 @@
         </div>
         <div class="about-wrapper" data-trigger>
           <a data-w-id="48f49937-86c7-881e-2223-11f9144d0042" href="#" class="button-about-project w-inline-block">
-            <div>About the project</div>
+            <div>DETAILS</div>
           </a>
           <div data-w-id="48f49937-86c7-881e-2223-11f9144d0045" class="w-layout-grid project-about-section">
             <div id="w-node-11f9144d0046-aa056f6f" class="quote-wrapper">
@@ -448,7 +448,7 @@
         </div>
         <div class="about-wrapper" data-trigger>
           <a data-w-id="74d0f95a-1198-abea-1830-d60bcd12dc07" href="#" class="button-about-project w-inline-block">
-            <div>About the project</div>
+            <div>DETAILS</div>
           </a>
           <div data-w-id="74d0f95a-1198-abea-1830-d60bcd12dc0a" class="w-layout-grid project-about-section">
             <div id="w-node-d60bcd12dc0b-aa056f6f" class="quote-wrapper">
@@ -507,7 +507,7 @@
         </div>
         <div class="about-wrapper" data-trigger>
           <a data-w-id="c749924a-4fb5-b5a3-8583-79e1a0199a53" href="#" class="button-about-project w-inline-block">
-            <div>About the project</div>
+            <div>DETAILS</div>
           </a>
           <div data-w-id="c749924a-4fb5-b5a3-8583-79e1a0199a56" class="w-layout-grid project-about-section">
             <div id="w-node-79e1a0199a57-aa056f6f" class="quote-wrapper">
@@ -560,7 +560,7 @@
         </div>
         <div class="about-wrapper" data-trigger>
           <a data-w-id="4ac542d6-8f37-2f2c-9435-4dda8e7da794" href="#" class="button-about-project w-inline-block">
-            <div>About the project</div>
+            <div>DETAILS</div>
           </a>
           <div data-w-id="4ac542d6-8f37-2f2c-9435-4dda8e7da797" class="w-layout-grid project-about-section">
             <div class="quote-wrapper">
@@ -617,7 +617,7 @@
         </div>
         <div class="about-wrapper" data-trigger>
           <a data-w-id="3a0b7631-8fb2-f623-e287-baa156c124ae" href="#" class="button-about-project w-inline-block">
-            <div>About the project</div>
+            <div>DETAILS</div>
           </a>
           <div data-w-id="3a0b7631-8fb2-f623-e287-baa156c124b1" class="w-layout-grid project-about-section">
             <div class="summary-wrapper">
@@ -655,7 +655,7 @@
         </div>
         <div class="about-wrapper" data-trigger>
           <a data-w-id="157f51e7-df97-80b0-f08e-fce6a071cfd9" href="#" class="button-about-project w-inline-block">
-            <div>About the project</div>
+            <div>DETAILS</div>
           </a>
           <div data-w-id="157f51e7-df97-80b0-f08e-fce6a071cfdc" class="w-layout-grid project-about-section">
             <div id="w-node-fce6a071cfdd-aa056f6f" class="quote-wrapper">

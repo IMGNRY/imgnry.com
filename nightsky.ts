@@ -32,10 +32,10 @@ window.addEventListener('DOMContentLoaded', async () => {
   app.renderer.view.style.touchAction = 'auto'
 
   // screen fx
-  //   app.stage.filters = [
-  //     new RGBSplitFilter(new PIXI.Point(-0.5, -0.5), new PIXI.Point(1, -0.5), new PIXI.Point(-1, 0.5)),
-  //     new AdvancedBloomFilter({ threshold: 0.6, blur: 3, bloomScale: 4, brightness: 1 }),
-  //   ]
+  app.stage.filters = [
+    new RGBSplitFilter(new PIXI.Point(-0.5, -0.5), new PIXI.Point(1, -0.5), new PIXI.Point(-1, 0.5)),
+    new AdvancedBloomFilter({ threshold: 0.6, blur: 3, bloomScale: 4, brightness: 1 }),
+  ]
 
   // fade in
   app.stage.alpha = 0
@@ -84,7 +84,7 @@ window.addEventListener('DOMContentLoaded', async () => {
     star.y = randomScreenY()
     star.alphaVelocity = random(-PREF.STAR_MAX_ALPHA_VELOCITY, PREF.STAR_MAX_ALPHA_VELOCITY)
     star.alpha = 0
-    star.scaleMax = EasingFunctions.easeInQuint(Math.random()).remap([0, 1], [0.1, 0.3])
+    star.scaleMax = Math.random().remap([0, 1], [0.1, 0.3])
     star.scale.set(0)
     app.stage.addChild(star)
     stars.push(star)
