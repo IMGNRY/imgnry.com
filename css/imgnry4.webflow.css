@@ -445,7 +445,7 @@ blockquote {
   padding-bottom: 0px;
 }
 
-.text-span {
+.green {
   color: #5fff9b;
 }
 
@@ -952,4 +952,7 @@ h1 {
 .toca-icon:nth-child(3) {
   margin-right: 20%;
   margin-left: 0;
+}
+
+.tag.green {
 }

@@ -162,33 +162,14 @@
             <div class="summary-wrapper">
               <h3 class="everything">Project</h3>
               <p class="project-paragraph">
-                Our current inhouse project can fairly be called digital hybris. Our two-man-crew aim to beat Google, Apple, Adobe and Microsoft in
-                building the world greatest photo organizing service.
+                The current inhouse project can fairly be called digital hybris. Our two-man-crew aim to beat Google, Apple, Adobe and Microsoft in
+                building the worlds greatest photo organizing service.
               </p>
             </div>
             <div id="w-node-84e6cccc430f-aa056f6f" class="summary-wrapper">
-              <h3 class="everything">Our rolE <span class="text-span">Everything</span></h3>
+              <h3 class="everything">Our role</h3>
               <div class="tags-wrapper">
-                <div class="tag">Concept</div>
-                <div class="tag">Art Direction</div>
-                <div class="tag">UI</div>
-                <div class="tag">UX</div>
-                <div class="tag">HTML/CSS</div>
-                <div class="tag">Email / CRM</div>
-                <div class="tag">Design System</div>
-                <div class="tag">Web</div>
-                <div class="tag">Marketing</div>
-                <div class="tag">Video</div>
-                <div class="tag">Vue</div>
-                <div class="tag">TypeScript</div>
-                <div class="tag">MongoDB</div>
-                <div class="tag">Node</div>
-                <div class="tag">Serverless/AWS/Lambda</div>
-                <div class="tag">Heroku</div>
-                <div class="tag">Digital Ocean</div>
-                <div class="tag">Machine Learning</div>
-                <div class="tag">Leaflet/Mapbox</div>
-                <div class="tag">Webpack</div>
+                <div class="tag green">Everything</div>
               </div>
             </div>
           </div>
@@ -238,18 +219,9 @@
               </p>
             </div>
             <div id="w-node-88aa31a3d6f8-aa056f6f" class="summary-wrapper">
-              <h3 class="everything">Our role <span class="text-span">Everything</span></h3>
+              <h3 class="everything">Our role</h3>
               <div class="tags-wrapper">
-                <div class="tag">Concept</div>
-                <div class="tag">Art Direction</div>
-                <div class="tag">UI</div>
-                <div class="tag">UX</div>
-                <div class="tag">HTML/CSS</div>
-                <div class="tag">Sound</div>
-                <div class="tag">VFX</div>
-                <div class="tag">Marketing</div>
-                <div class="tag">Video</div>
-                <div class="tag">Project Management</div>
+                <div class="tag green">Everything</div>
               </div>
             </div>
           </div>
@@ -348,7 +320,7 @@
               </p>
             </div>
             <div id="w-node-ad5b872df8cf-aa056f6f" class="summary-wrapper">
-              <h3 class="everything">Our rolE <span class="text-span">Everything</span></h3>
+              <h3 class="everything">Our rolE</h3>
               <div class="tags-wrapper">
                 <div class="tag">Development</div>
                 <div class="tag">iOS</div>
@@ -403,21 +375,9 @@
               </p>
             </div>
             <div id="w-node-11f9144d0052-aa056f6f" class="summary-wrapper">
-              <h3 class="everything">Our rolE <span class="text-span">Everything</span></h3>
+              <h3 class="everything">Our role</h3>
               <div class="tags-wrapper">
-                <div class="tag">Concept</div>
-                <div class="tag">Art Direction</div>
-                <div class="tag">UI</div>
-                <div class="tag">UX</div>
-                <div class="tag">HTML/CSS</div>
-                <div class="tag">Project Management</div>
-                <div class="tag">Marketing</div>
-                <div class="tag">Sound</div>
-                <div class="tag">Video</div>
-                <div class="tag">iOS</div>
-                <div class="tag">Objective-C</div>
-                <div class="tag">Spritekit</div>
-                <div class="tag">Node</div>
+                <div class="tag green">Everything</div>
               </div>
             </div>
           </div>
@@ -471,18 +431,9 @@
               </p>
             </div>
             <div id="w-node-d60bcd12dc17-aa056f6f" class="summary-wrapper">
-              <h3 class="everything">Our rolE <span class="text-span">Everything</span></h3>
+              <h3 class="everything">Our rolE</h3>
               <div class="tags-wrapper">
-                <div class="tag">Art Direction</div>
-                <div class="tag">UI</div>
-                <div class="tag">UX</div>
-                <div class="tag">Project Management</div>
-                <div class="tag">Node</div>
-                <div class="tag">iOS</div>
-                <div class="tag">Swift</div>
-                <div class="tag">Objective-C</div>
-                <div class="tag">Keystone.js</div>
-                <div class="tag">MongoDB</div>
+                <div class="tag green">Everything</div>
               </div>
             </div>
           </div>
@@ -527,15 +478,9 @@
               </p>
             </div>
             <div id="w-node-79e1a0199a63-aa056f6f" class="summary-wrapper">
-              <h3 class="everything">Our rolE <span class="text-span">Everything</span></h3>
+              <h3 class="everything">Our rolE</h3>
               <div class="tags-wrapper">
-                <div class="tag">Concept</div>
-                <div class="tag">Art Direction</div>
-                <div class="tag">UI</div>
-                <div class="tag">UX</div>
-                <div class="tag">Project Management</div>
-                <div class="tag">iOS</div>
-                <div class="tag">Objective-C</div>
+                <div class="tag green">Everything</div>
               </div>
             </div>
           </div>
@@ -581,21 +526,9 @@
               </p>
             </div>
             <div id="w-node-4dda8e7da7a4-aa056f6f" class="summary-wrapper">
-              <h3 class="everything">Our rolE <span class="text-span">Everything</span></h3>
+              <h3 class="everything">Our rolE</h3>
               <div class="tags-wrapper">
-                <div class="tag">Concept</div>
-                <div class="tag">Art Direction</div>
-                <div class="tag">UI</div>
-                <div class="tag">UX</div>
-                <div class="tag">Sound</div>
-                <div class="tag">Animation</div>
-                <div class="tag">Project Management</div>
-                <div class="tag">Unity</div>
-                <div class="tag">C#</div>
-                <div class="tag">iOS</div>
-                <div class="tag">Objective-C</div>
-                <div class="tag">Node</div>
-                <div class="tag">MongoDB</div>
+                <div class="tag green">Everything</div>
               </div>
             </div>
           </div>
@@ -681,10 +614,7 @@
                 <div class="tag">Development</div>
                 <div class="tag">iOS</div>
                 <div class="tag">Objective-C</div>
-                <div class="tag">Spritekit</div>
-                <div class="tag">Web</div>
-                <div class="tag">MongoDB</div>
-                <div class="tag">Node</div>
+                <div class="tag">Swift</div>
               </div>
             </div>
           </div>
