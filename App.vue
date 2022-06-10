@@ -86,6 +86,58 @@
       <div class="project">
         <div class="w-layout-grid project-title-row" data-trigger>
           <div class="project-title-line"></div>
+          <h2 class="project-title">Picular</h2>
+          <div class="project-title-line"></div>
+        </div>
+        <div class="about-wrapper" data-trigger>
+          <a data-w-id="a73b6af2-1979-2ce9-74c9-84e6cccc42ff" href="#" class="button-about-project w-inline-block">
+            <div>DETAILS</div>
+          </a>
+          <div data-w-id="a73b6af2-1979-2ce9-74c9-84e6cccc4302" class="w-layout-grid project-about-section">
+            <div id="w-node-84e6cccc4303-aa056f6f" class="quote-wrapper">
+              <img src="images/quote.svg" alt="" class="quote-character" />
+              <div class="quote-text-wrapper">
+                <blockquote class="quote-text">
+                  Great tools for organizing and improving my database of thousands of photos over a long life. Fille and Kristofer have patiently
+                  answered every question.
+                </blockquote>
+                <div class="quote-byline">Inger Kari Nerheim, Happy Customer 🥰</div>
+              </div>
+            </div>
+            <div class="summary-wrapper">
+              <h3 class="everything">Project</h3>
+              <p class="project-paragraph">
+                The current inhouse project can fairly be called digital hybris. Our two-man-crew aim to beat Google, Apple, Adobe and Microsoft in
+                building the worlds greatest photo organizing service.
+              </p>
+            </div>
+            <div id="w-node-84e6cccc430f-aa056f6f" class="summary-wrapper">
+              <h3 class="everything">Our role</h3>
+              <div class="tags-wrapper">
+                <div class="tag green">Everything</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="w-layout-grid gallery-grid _1col">
+          <lazy-img name="picular-1.jpg"></lazy-img>
+        </div>
+        <div class="w-layout-grid gallery-grid _2col">
+          <lazy-img name="picular-2a.png"></lazy-img>
+          <lazy-img name="picular-2b.png"></lazy-img>
+          <lazy-img name="picular-3a.png"></lazy-img>
+          <lazy-img name="picular-3b.png"></lazy-img>
+        </div>
+        <div class="w-layout-grid gallery-grid">
+          <lazy-img name="picular-4a.png"></lazy-img>
+          <lazy-img name="picular-4b.png"></lazy-img>
+          <lazy-img name="picular-4c.png"></lazy-img>
+          <lazy-img name="picular-4d.png"></lazy-img>
+        </div>
+      </div>
+      <div class="project">
+        <div class="w-layout-grid project-title-row" data-trigger>
+          <div class="project-title-line"></div>
           <h2 class="project-title">TUI</h2>
           <div class="project-title-line"></div>
         </div>
@@ -141,55 +193,6 @@
         <div class="w-layout-grid gallery-grid _2col">
           <lazy-img name="tui-4a.png"></lazy-img>
           <lazy-img name="tui-4b.png"></lazy-img>
-        </div>
-      </div>
-      <div class="project">
-        <div class="w-layout-grid project-title-row" data-trigger>
-          <div class="project-title-line"></div>
-          <h2 class="project-title">Picular</h2>
-          <div class="project-title-line"></div>
-        </div>
-        <div class="about-wrapper" data-trigger>
-          <a data-w-id="a73b6af2-1979-2ce9-74c9-84e6cccc42ff" href="#" class="button-about-project w-inline-block">
-            <div>DETAILS</div>
-          </a>
-          <div data-w-id="a73b6af2-1979-2ce9-74c9-84e6cccc4302" class="w-layout-grid project-about-section">
-            <div id="w-node-84e6cccc4303-aa056f6f" class="quote-wrapper">
-              <img src="images/quote.svg" alt="" class="quote-character" />
-              <div class="quote-text-wrapper">
-                <blockquote class="quote-text">Great first impression!</blockquote>
-                <div class="quote-byline">Ann-Britt Olsson, Kristofer’s mum 🥰</div>
-              </div>
-            </div>
-            <div class="summary-wrapper">
-              <h3 class="everything">Project</h3>
-              <p class="project-paragraph">
-                The current inhouse project can fairly be called digital hybris. Our two-man-crew aim to beat Google, Apple, Adobe and Microsoft in
-                building the worlds greatest photo organizing service.
-              </p>
-            </div>
-            <div id="w-node-84e6cccc430f-aa056f6f" class="summary-wrapper">
-              <h3 class="everything">Our role</h3>
-              <div class="tags-wrapper">
-                <div class="tag green">Everything</div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="w-layout-grid gallery-grid _1col">
-          <lazy-img name="picular-1.jpg"></lazy-img>
-        </div>
-        <div class="w-layout-grid gallery-grid _2col">
-          <lazy-img name="picular-2a.png"></lazy-img>
-          <lazy-img name="picular-2b.png"></lazy-img>
-          <lazy-img name="picular-3a.png"></lazy-img>
-          <lazy-img name="picular-3b.png"></lazy-img>
-        </div>
-        <div class="w-layout-grid gallery-grid">
-          <lazy-img name="picular-4a.png"></lazy-img>
-          <lazy-img name="picular-4b.png"></lazy-img>
-          <lazy-img name="picular-4c.png"></lazy-img>
-          <lazy-img name="picular-4d.png"></lazy-img>
         </div>
       </div>
       <div class="project">

@@ -229,6 +229,7 @@ blockquote {
 .imgnry-anim {
   width: 400px;
   max-width: 80%;
+  margin-bottom: 25px;
 }
 
 .nightsky-section {
@@ -676,14 +677,14 @@ html.w-mod-js *[data-ix='fadeinonload2'] {
   }
 }
 
-@media (max-width: 479px) {
+@media (max-width: 400px) {
   .container-max-1320 {
     margin-right: 12px;
     margin-left: 12px;
   }
-  /* .project-title {
-    font-size: 27px;
-  } */
+  .project-title {
+    font-size: 40px;
+  }
   .project-title-row {
     margin-bottom: 12px;
     grid-column-gap: 19px;
