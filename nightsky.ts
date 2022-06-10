@@ -29,6 +29,7 @@ window.addEventListener('DOMContentLoaded', async () => {
     width: containerRect.width,
     height: containerRect.height,
     antialias: true,
+    autoDensity: true,
   })
   nightSkyContainer.appendChild(app.view)
   app.renderer.plugins.interaction.autoPreventDefault = false
