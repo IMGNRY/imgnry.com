@@ -13,13 +13,18 @@
   grid-row-gap: 16px;
   grid-column-gap: 16px;
 }
-
+html {
+  max-width: 100%;
+  overflow-x: hidden;
+}
 body {
   background-color: #090909;
   background-image: url('../images/bg-raster-2.png');
   background-position: 0px 0px;
   background-size: 125px;
   font-family: 'Breakers Regular', sans-serif;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 h2 {
@@ -232,7 +237,7 @@ blockquote {
   display: -ms-flexbox;
   display: flex;
   height: 100vh;
-  margin-bottom: 100px;
+  padding-bottom: 5%;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
