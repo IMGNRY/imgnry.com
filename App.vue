@@ -725,7 +725,7 @@
               '5a-flavors',
               '5b-wars',
               '5c-cheesemaze',
-              '5d-guldvarg',
+              '5d -guldvarg',
             ]"
             :name="`p-logo-${name}.png`"
             :key="name"
@@ -748,8 +748,7 @@
             <h2 data-trigger>Kristofer</h2>
             <div class="title" data-trigger>Designer</div>
             <div class="description" data-trigger>
-              Been passionate about creating digital content since his first Amiga in the 80s.
-Being a full-stack designer means he’s comfortable doing almost anything design related. However, his most prominent value nowadays is his knowledge of building scalable design systems.
+              Having developed a passion for creating digital content since acquiring his first Amiga in the 80s, he has become a versatile full-stack designer, skilled in various design-related tasks. Today, his most significant contribution lies in his expertise in constructing scalable design systems.
             </div>
           </div>
           <div class="profile">
@@ -757,7 +756,7 @@ Being a full-stack designer means he’s comfortable doing almost anything desig
             <h2 data-trigger>Fille</h2>
             <div class="title" data-trigger>Developer</div>
             <div class="description" data-trigger>
-              A full-stack developer with 25 years of experience. He's a technological generalist that prefers to be involved all the way through the stack, from the database to the UI. Love to learn and experiment. Using Co-Pilot and GPT-4 to enhance his DX and performance.
+              With 25 years of experience as a full-stack developer, he is a technological generalist who enjoys being involved in every layer of the stack, from the database to the user interface. He has a passion for learning and experimenting, leveraging tools like Co-Pilot and GPT-4 to boost his developer experience and performance.
             </div>
           </div>
       </div>
