@@ -4,6 +4,65 @@
       <div class="project">
         <div class="w-layout-grid project-title-row" data-trigger>
           <div class="project-title-line"></div>
+          <h2 class="project-title">Halebop</h2>
+          <div class="project-title-line"></div>
+        </div>
+        <div class="about-wrapper" data-trigger>
+          <a data-w-id="21cc8097-8beb-dd68-cdfd-24c3b97416f6" href="#" class="button-about-project w-inline-block">
+            <div>DETAILS</div>
+          </a>
+          <div data-w-id="333849fc-cdf4-cf26-68aa-9be11dc69ae8" class="w-layout-grid project-about-section">
+            <div id="w-node-342157ea93fb-aa056f6f" class="quote-wrapper">
+              <img src="images/quote.svg" alt="" class="quote-character" />
+              <div class="quote-text-wrapper">
+                <blockquote class="quote-text">
+                  Kristofer was given the project scope to establish a new design system for Halebop and ended up not only delivering above and beyond
+                  the original scope, but he also became a core contributor in the Halebop team. His approach was refreshing and integral to where
+                  Halebop is today.
+                </blockquote>
+                <div class="quote-byline">Emma Craig, Head of halebop</div>
+              </div>
+            </div>
+            <div class="summary-wrapper">
+              <h3 class="everything">Project</h3>
+              <p class="project-paragraph">
+                Sweden's happiest telecom company! During my year, I made them a new design system to optimize, modernize and align their solid visual
+                brand. I also redesigned most of the primary pages of their service, including the checkout flow.
+              </p>
+            </div>
+            <div id="w-node-342157ea9407-aa056f6f" class="summary-wrapper">
+              <h3 class="everything">Our role</h3>
+              <div class="tags-wrapper">
+                <div class="tag">Art Direction</div>
+                <div class="tag">Design System</div>
+                <div class="tag">UI</div>
+                <div class="tag">UX</div>
+                <div class="tag">Web</div>
+                <div class="tag">App</div>
+                <div class="tag">User testing</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="w-layout-grid gallery-grid _1col">
+          <lazy-img name="halebop-1.png"></lazy-img>
+        </div>
+        <div class="w-layout-grid gallery-grid">
+          <lazy-img name="halebop-2a.png"></lazy-img>
+          <lazy-img name="halebop-2b.png"></lazy-img>
+          <lazy-img name="halebop-2c.png"></lazy-img>
+          <lazy-img name="halebop-2d.png"></lazy-img>
+        </div>
+        <div class="w-layout-grid gallery-grid _1col">
+          <lazy-img name="halebop-3.png"></lazy-img>
+        </div>
+        <div class="w-layout-grid gallery-grid _1col">
+          <lazy-img name="halebop-4.png"></lazy-img>
+        </div>
+      </div>
+      <div class="project">
+        <div class="w-layout-grid project-title-row" data-trigger>
+          <div class="project-title-line"></div>
           <h2 class="project-title">Soundtrack</h2>
           <div class="project-title-line"></div>
         </div>
