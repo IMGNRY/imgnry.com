@@ -740,8 +740,7 @@
           <div class="project-title-line"></div>
         </div>
         <h1 data-trigger>
-          Kristofer & Fille met in school, started working together in the 90s with numerous weird hobby projects, and founded IMGNRY in 2012. We live
-          and operate in Stockholm, Sweden.
+          Kristofer and Fille, who first met in school, began collaborating on various eccentric hobby projects in the 90s. They eventually established IMGNRY in 2012, and are currently based in Stockholm, Sweden, where they live and work.
         </h1>
         <div class="profiles">
           <div class="profile">
