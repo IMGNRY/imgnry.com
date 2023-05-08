@@ -18478,7 +18478,7 @@ Webflow.require('ix2').init({
               id: 'a-4-n',
               actionTypeId: 'STYLE_OPACITY',
               config: {
-                delay: 5000,
+                delay: 3500,
                 easing: '',
                 duration: 2000,
                 target: { id: '5dd67ddb43540990aa056f6f|34772d09-2899-03d5-0c54-f81ee4d21d8b' },
@@ -18490,7 +18490,7 @@ Webflow.require('ix2').init({
               id: 'a-4-n-4',
               actionTypeId: 'TRANSFORM_MOVE',
               config: {
-                delay: 5000,
+                delay: 3500,
                 easing: '',
                 duration: 500,
                 target: { id: '5dd67ddb43540990aa056f6f|34772d09-2899-03d5-0c54-f81ee4d21d8b' },
@@ -18504,7 +18504,7 @@ Webflow.require('ix2').init({
               id: 'a-4-n-3',
               actionTypeId: 'TRANSFORM_MOVE',
               config: {
-                delay: 5000,
+                delay: 3500,
                 easing: 'inOutQuart',
                 duration: 1500,
                 target: { id: '5dd67ddb43540990aa056f6f|4dc4cebe-3d59-26d5-697d-edd7624909f3' },

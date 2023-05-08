@@ -20,7 +20,7 @@
                   the original scope, but he also became a core contributor in the Halebop team. His approach was refreshing and integral to where
                   Halebop is today.
                 </blockquote>
-                <div class="quote-byline">Emma Craig, Head of halebop</div>
+                <div class="quote-byline">Emma Craig, Head of Halebop</div>
               </div>
             </div>
             <div class="summary-wrapper">
@@ -45,19 +45,19 @@
           </div>
         </div>
         <div class="w-layout-grid gallery-grid _1col">
-          <lazy-img name="halebop-1.png"></lazy-img>
+          <lazy-img name="p-halebop-1.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid">
-          <lazy-img name="halebop-2a.png"></lazy-img>
-          <lazy-img name="halebop-2b.png"></lazy-img>
-          <lazy-img name="halebop-2c.png"></lazy-img>
-          <lazy-img name="halebop-2d.png"></lazy-img>
+          <lazy-img name="p-halebop-2a.png"></lazy-img>
+          <lazy-img name="p-halebop-2b.png"></lazy-img>
+          <lazy-img name="p-halebop-2c.png"></lazy-img>
+          <lazy-img name="p-halebop-2d.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _1col">
-          <lazy-img name="halebop-3.png"></lazy-img>
+          <lazy-img name="p-halebop-3.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _1col">
-          <lazy-img name="halebop-4.png"></lazy-img>
+          <lazy-img name="p-halebop-4.png"></lazy-img>
         </div>
       </div>
       <div class="project">
@@ -106,40 +106,40 @@
           </div>
         </div>
         <div class="w-layout-grid gallery-grid _1col">
-          <lazy-img name="soundtrack-1.png"></lazy-img>
+          <lazy-img name="p-soundtrack-1.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid">
-          <lazy-img name="soundtrack-2a.png"></lazy-img>
-          <lazy-img name="soundtrack-2b.png"></lazy-img>
-          <lazy-img name="soundtrack-2c.png"></lazy-img>
-          <lazy-img name="soundtrack-2d.png"></lazy-img>
+          <lazy-img name="p-soundtrack-2a.png"></lazy-img>
+          <lazy-img name="p-soundtrack-2b.png"></lazy-img>
+          <lazy-img name="p-soundtrack-2c.png"></lazy-img>
+          <lazy-img name="p-soundtrack-2d.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _2col">
-          <lazy-img name="soundtrack-3a.png"></lazy-img>
-          <lazy-img name="soundtrack-3b.png"></lazy-img>
+          <lazy-img name="p-soundtrack-3a.png"></lazy-img>
+          <lazy-img name="p-soundtrack-3b.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _1col">
-          <lazy-img name="soundtrack-4a.png"></lazy-img>
+          <lazy-img name="p-soundtrack-4a.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _6col">
-          <lazy-img name="soundtrack-5a.png"></lazy-img>
-          <lazy-img name="soundtrack-5b.png"></lazy-img>
-          <lazy-img name="soundtrack-5c.png"></lazy-img>
-          <lazy-img name="soundtrack-5d.png"></lazy-img>
-          <lazy-img name="soundtrack-5e.png"></lazy-img>
-          <lazy-img name="soundtrack-5f.png"></lazy-img>
+          <lazy-img name="p-soundtrack-5a.png"></lazy-img>
+          <lazy-img name="p-soundtrack-5b.png"></lazy-img>
+          <lazy-img name="p-soundtrack-5c.png"></lazy-img>
+          <lazy-img name="p-soundtrack-5d.png"></lazy-img>
+          <lazy-img name="p-soundtrack-5e.png"></lazy-img>
+          <lazy-img name="p-soundtrack-5f.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _6col">
-          <lazy-img name="soundtrack-6a.png"></lazy-img>
-          <lazy-img name="soundtrack-6b.png"></lazy-img>
-          <lazy-img name="soundtrack-6c.png"></lazy-img>
-          <lazy-img name="soundtrack-6d.png"></lazy-img>
-          <lazy-img name="soundtrack-6e.png"></lazy-img>
-          <lazy-img name="soundtrack-6f.png"></lazy-img>
+          <lazy-img name="p-soundtrack-6a.png"></lazy-img>
+          <lazy-img name="p-soundtrack-6b.png"></lazy-img>
+          <lazy-img name="p-soundtrack-6c.png"></lazy-img>
+          <lazy-img name="p-soundtrack-6d.png"></lazy-img>
+          <lazy-img name="p-soundtrack-6e.png"></lazy-img>
+          <lazy-img name="p-soundtrack-6f.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _2col">
-          <lazy-img name="soundtrack-7a.png"></lazy-img>
-          <lazy-img name="soundtrack-7b.png"></lazy-img>
+          <lazy-img name="p-soundtrack-7a.png"></lazy-img>
+          <lazy-img name="p-soundtrack-7b.png"></lazy-img>
         </div>
       </div>
       <div class="project">
@@ -179,19 +179,19 @@
           </div>
         </div>
         <div class="w-layout-grid gallery-grid _1col">
-          <lazy-img name="picular-1.jpg"></lazy-img>
+          <lazy-img name="p-picular-1.jpg"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _2col">
-          <lazy-img name="picular-2a.png"></lazy-img>
-          <lazy-img name="picular-2b.png"></lazy-img>
-          <lazy-img name="picular-3a.png"></lazy-img>
-          <lazy-img name="picular-3b.png"></lazy-img>
+          <lazy-img name="p-picular-2a.png"></lazy-img>
+          <lazy-img name="p-picular-2b.png"></lazy-img>
+          <lazy-img name="p-picular-3a.png"></lazy-img>
+          <lazy-img name="p-picular-3b.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid">
-          <lazy-img name="picular-4a.png"></lazy-img>
-          <lazy-img name="picular-4b.png"></lazy-img>
-          <lazy-img name="picular-4c.png"></lazy-img>
-          <lazy-img name="picular-4d.png"></lazy-img>
+          <lazy-img name="p-picular-4a.png"></lazy-img>
+          <lazy-img name="p-picular-4b.png"></lazy-img>
+          <lazy-img name="p-picular-4c.png"></lazy-img>
+          <lazy-img name="p-picular-4d.png"></lazy-img>
         </div>
       </div>
       <div class="project">
@@ -237,21 +237,21 @@
           </div>
         </div>
         <div class="w-layout-grid gallery-grid _1col">
-          <lazy-img name="tui-1.png"></lazy-img>
+          <lazy-img name="p-tui-1.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _1col">
-          <lazy-img name="tui-2.png"></lazy-img>
+          <lazy-img name="p-tui-2.png"></lazy-img>
         </div>
 
         <div class="w-layout-grid gallery-grid">
-          <lazy-img name="tui-3a.png"></lazy-img>
-          <lazy-img name="tui-3b.png"></lazy-img>
-          <lazy-img name="tui-3c.png"></lazy-img>
-          <lazy-img name="tui-3d.png"></lazy-img>
+          <lazy-img name="p-tui-3a.png"></lazy-img>
+          <lazy-img name="p-tui-3b.png"></lazy-img>
+          <lazy-img name="p-tui-3c.png"></lazy-img>
+          <lazy-img name="p-tui-3d.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _2col">
-          <lazy-img name="tui-4a.png"></lazy-img>
-          <lazy-img name="tui-4b.png"></lazy-img>
+          <lazy-img name="p-tui-4a.png"></lazy-img>
+          <lazy-img name="p-tui-4b.png"></lazy-img>
         </div>
       </div>
       <div class="project">
@@ -291,12 +291,12 @@
           </div>
         </div>
         <div class="w-layout-grid gallery-grid _1col">
-          <lazy-img name="cocktailcruise-1.png"></lazy-img>
-          <lazy-img name="cocktailcruise-2.png"></lazy-img>
+          <lazy-img name="p-cocktailcruise-1.png"></lazy-img>
+          <lazy-img name="p-cocktailcruise-2.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _2col">
-          <lazy-img name="cocktailcruise-3a.png"></lazy-img>
-          <lazy-img name="cocktailcruise-3b.png"></lazy-img>
+          <lazy-img name="p-cocktailcruise-3a.png"></lazy-img>
+          <lazy-img name="p-cocktailcruise-3b.png"></lazy-img>
         </div>
       </div>
       <div class="project">
@@ -340,17 +340,17 @@
           </div>
         </div>
         <div class="w-layout-grid gallery-grid _1col">
-          <lazy-img name="comhem-1.jpg"></lazy-img>
+          <lazy-img name="p-comhem-1.jpg"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _2col">
-          <lazy-img name="comhem-2a.png"></lazy-img>
-          <lazy-img name="comhem-2b.png"></lazy-img>
+          <lazy-img name="p-comhem-2a.png"></lazy-img>
+          <lazy-img name="p-comhem-2b.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid">
-          <lazy-img name="comhem-3a.png" class="hide-image-small"></lazy-img>
-          <lazy-img name="comhem-3b.png"></lazy-img>
-          <lazy-img name="comhem-3c.png"></lazy-img>
-          <lazy-img name="comhem-3d.png" class="hide-image-small"></lazy-img>
+          <lazy-img name="p-comhem-3a.png" class="hide-image-small"></lazy-img>
+          <lazy-img name="p-comhem-3b.png"></lazy-img>
+          <lazy-img name="p-comhem-3c.png"></lazy-img>
+          <lazy-img name="p-comhem-3d.png" class="hide-image-small"></lazy-img>
         </div>
       </div>
       <div class="project">
@@ -399,16 +399,16 @@
           </div>
         </div>
         <div class="w-layout-grid gallery-grid thirdsright fixed">
-          <lazy-img name="tocaboca-1a.png"></lazy-img>
-          <lazy-img name="tocaboca-1b.png"></lazy-img>
+          <lazy-img name="p-tocaboca-1a.png"></lazy-img>
+          <lazy-img name="p-tocaboca-1b.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _3col toca">
-          <lazy-img name="tocaboca-2a.png" class="toca-icon"></lazy-img>
-          <lazy-img name="tocaboca-2b.png" class="toca-icon"></lazy-img>
-          <lazy-img name="tocaboca-2c.png" class="toca-icon"></lazy-img>
+          <lazy-img name="p-tocaboca-2a.png" class="toca-icon"></lazy-img>
+          <lazy-img name="p-tocaboca-2b.png" class="toca-icon"></lazy-img>
+          <lazy-img name="p-tocaboca-2c.png" class="toca-icon"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _1col">
-          <lazy-img name="tocaboca-3.png"></lazy-img>
+          <lazy-img name="p-tocaboca-3.png"></lazy-img>
         </div>
       </div>
       <div class="project">
@@ -447,21 +447,21 @@
           </div>
         </div>
         <div class="w-layout-grid gallery-grid _3col">
-          <lazy-img name="holy-1a.png"></lazy-img>
-          <lazy-img name="holy-1b.png"></lazy-img>
-          <lazy-img name="holy-1c.png"></lazy-img>
+          <lazy-img name="p-holy-1a.png"></lazy-img>
+          <lazy-img name="p-holy-1b.png"></lazy-img>
+          <lazy-img name="p-holy-1c.png"></lazy-img>
 
-          <lazy-img name="holy-2a.png"></lazy-img>
-          <lazy-img name="holy-2b.png" class="hide-image"></lazy-img>
-          <lazy-img name="holy-2c.png" class="hide-image"></lazy-img>
+          <lazy-img name="p-holy-2a.png"></lazy-img>
+          <lazy-img name="p-holy-2b.png" class="hide-image"></lazy-img>
+          <lazy-img name="p-holy-2c.png" class="hide-image"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _6col">
-          <lazy-img name="holy-3a.png"></lazy-img>
-          <lazy-img name="holy-3b.png"></lazy-img>
-          <lazy-img name="holy-3c.png"></lazy-img>
-          <lazy-img name="holy-3d.png"></lazy-img>
-          <lazy-img name="holy-3e.png"></lazy-img>
-          <lazy-img name="holy-3f.png"></lazy-img>
+          <lazy-img name="p-holy-3a.png"></lazy-img>
+          <lazy-img name="p-holy-3b.png"></lazy-img>
+          <lazy-img name="p-holy-3c.png"></lazy-img>
+          <lazy-img name="p-holy-3d.png"></lazy-img>
+          <lazy-img name="p-holy-3e.png"></lazy-img>
+          <lazy-img name="p-holy-3f.png"></lazy-img>
         </div>
       </div>
       <div class="project">
@@ -503,15 +503,15 @@
           </div>
         </div>
         <div class="w-layout-grid gallery-grid _3col">
-          <lazy-img name="nordea-1a.png"></lazy-img>
-          <lazy-img name="nordea-1b.png"></lazy-img>
-          <lazy-img name="nordea-1c.png" class="hide-image"></lazy-img>
+          <lazy-img name="p-nordea-1a.png"></lazy-img>
+          <lazy-img name="p-nordea-1b.png"></lazy-img>
+          <lazy-img name="p-nordea-1c.png" class="hide-image"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid">
-          <lazy-img name="nordea-2a.png"></lazy-img>
-          <lazy-img name="nordea-2b.png"></lazy-img>
-          <lazy-img name="nordea-2c.png"></lazy-img>
-          <lazy-img name="nordea-2d.png"></lazy-img>
+          <lazy-img name="p-nordea-2a.png"></lazy-img>
+          <lazy-img name="p-nordea-2b.png"></lazy-img>
+          <lazy-img name="p-nordea-2c.png"></lazy-img>
+          <lazy-img name="p-nordea-2d.png"></lazy-img>
         </div>
       </div>
       <div class="project">
@@ -550,15 +550,15 @@
           </div>
         </div>
         <div class="w-layout-grid gallery-grid mostwanted">
-          <lazy-img name="mostwanted-1a.png"></lazy-img>
-          <lazy-img name="mostwanted-1b.png"></lazy-img>
-          <lazy-img name="mostwanted-1c.png"></lazy-img>
-          <lazy-img name="mostwanted-1d.png" class="hide-image"></lazy-img>
+          <lazy-img name="p-mostwanted-1a.png"></lazy-img>
+          <lazy-img name="p-mostwanted-1b.png"></lazy-img>
+          <lazy-img name="p-mostwanted-1c.png"></lazy-img>
+          <lazy-img name="p-mostwanted-1d.png" class="hide-image"></lazy-img>
 
-          <lazy-img name="mostwanted-2a.png"></lazy-img>
-          <lazy-img name="mostwanted-2b.png"></lazy-img>
-          <lazy-img name="mostwanted-2c.png"></lazy-img>
-          <lazy-img name="mostwanted-2d.png" class="hide-image"></lazy-img>
+          <lazy-img name="p-mostwanted-2a.png"></lazy-img>
+          <lazy-img name="p-mostwanted-2b.png"></lazy-img>
+          <lazy-img name="p-mostwanted-2c.png"></lazy-img>
+          <lazy-img name="p-mostwanted-2d.png" class="hide-image"></lazy-img>
         </div>
       </div>
       <div class="project">
@@ -598,12 +598,12 @@
           </div>
         </div>
         <div class="w-layout-grid gallery-grid thirdsright">
-          <lazy-img name="wars-1b.png" class="force100"></lazy-img>
-          <lazy-img name="wars-1a.png"></lazy-img>
+          <lazy-img name="p-wars-1b.png" class="force100"></lazy-img>
+          <lazy-img name="p-wars-1a.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid thirdsleft">
-          <lazy-img name="wars-2b.png"></lazy-img>
-          <lazy-img name="wars-2a.png"></lazy-img>
+          <lazy-img name="p-wars-2b.png"></lazy-img>
+          <lazy-img name="p-wars-2a.png"></lazy-img>
         </div>
       </div>
       <div class="project">
@@ -636,12 +636,12 @@
           </div>
         </div>
         <div class="w-layout-grid gallery-grid _1col">
-          <lazy-img name="samsung-1.png"></lazy-img>
+          <lazy-img name="p-samsung-1.png"></lazy-img>
         </div>
         <div class="w-layout-grid gallery-grid _3col">
-          <lazy-img name="samsung-2a.png"></lazy-img>
-          <lazy-img name="samsung-2b.png"></lazy-img>
-          <lazy-img name="samsung-2c.png"></lazy-img>
+          <lazy-img name="p-samsung-2a.png"></lazy-img>
+          <lazy-img name="p-samsung-2b.png"></lazy-img>
+          <lazy-img name="p-samsung-2c.png"></lazy-img>
         </div>
       </div>
       <div class="project">
@@ -684,13 +684,13 @@
           </div>
         </div>
         <div class="w-layout-grid gallery-grid _3col">
-          <lazy-img name="systembolaget-1a.png"></lazy-img>
-          <lazy-img name="systembolaget-1b.png"></lazy-img>
-          <lazy-img name="systembolaget-1c.png" class="hide-image"></lazy-img>
+          <lazy-img name="p-systembolaget-1a.png"></lazy-img>
+          <lazy-img name="p-systembolaget-1b.png"></lazy-img>
+          <lazy-img name="p-systembolaget-1c.png" class="hide-image"></lazy-img>
 
-          <lazy-img name="systembolaget-2a.png" class="hide-image"></lazy-img>
-          <lazy-img name="systembolaget-2b.png"></lazy-img>
-          <lazy-img name="systembolaget-2c.png"></lazy-img>
+          <lazy-img name="p-systembolaget-2a.png" class="hide-image"></lazy-img>
+          <lazy-img name="p-systembolaget-2b.png"></lazy-img>
+          <lazy-img name="p-systembolaget-2c.png"></lazy-img>
         </div>
       </div>
       <div class="project">
@@ -727,10 +727,40 @@
               '5c-cheesemaze',
               '5d-guldvarg',
             ]"
-            :name="`logo-${name}.png`"
+            :name="`p-logo-${name}.png`"
             :key="name"
           ></lazy-img>
         </div>
+      </div>
+
+      <div class="project founders">
+        <div class="w-layout-grid project-title-row" data-trigger>
+          <div class="project-title-line"></div>
+          <h2 class="project-title">Founders</h2>
+          <div class="project-title-line"></div>
+        </div>
+        <h1 data-trigger>
+          Kristofer & Fille met in school, started working together in the 90s with numerous weird hobby projects, and founded IMGNRY in 2012. We live
+          and operate in Stockholm, Sweden.
+        </h1>
+        <div class="profiles">
+          <div class="profile">
+            <lazy-img name="photo-kristofer.png" class="photo"></lazy-img>
+            <h2 data-trigger>Kristofer</h2>
+            <div class="title" data-trigger>Designer</div>
+            <div class="description" data-trigger>
+              Been passionate about creating digital content since his first Amiga in the 80s.
+Being a full-stack designer means he’s comfortable doing almost anything design related. However, his most prominent value nowadays is his knowledge of building scalable design systems.
+            </div>
+          </div>
+          <div class="profile">
+            <lazy-img name="photo-fille.png" class="photo"></lazy-img>
+            <h2 data-trigger>Fille</h2>
+            <div class="title" data-trigger>Developer</div>
+            <div class="description" data-trigger>
+              A full-stack developer with 25 years of experience. He's a technological generalist that prefers to be involved all the way through the stack, from the database to the UI. Love to learn and experiment. Using Co-Pilot and GPT-4 to enhance his DX and performance.
+            </div>
+          </div>
       </div>
     </div>
   </div>
@@ -774,5 +804,65 @@ export default class App extends Vue {
 }
 .gallery-image {
   background: rgb(19, 19, 19);
+}
+.founders {
+
+  h1 {
+    margin: 0 auto;
+    max-width: 700px;
+    @media (max-width: 767px) {
+      font-size: 24px;
+      text-align: left;
+    }
+  }
+
+  .profiles {
+    display: flex;
+    gap: 80px;
+    @media (max-width: 767px) {
+      flex-direction: column;
+      gap: 40px;
+    }
+    
+    .profile {
+      flex: 1;
+      // padding: 0 40px;
+      margin: 40px 0;
+    }
+
+    .photo {
+      flex: 1;
+      margin-bottom: 10px;
+    }
+    
+    h2 {
+      font-size: 48px;
+      font-weight: 900;
+      color: #fff;
+      line-height: 1.3;
+      margin-bottom: 0;
+    }
+
+    .title {
+      font-size: 18px;
+      font-family: 'Breakers Light', sans-serif;
+      color: #ffd25f;
+      line-height: 1;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      margin-bottom: 20px;
+    }
+
+    .description {
+      font-size: 24px;
+      font-family: 'Breakers Light', sans-serif;
+      color: #fff;
+      line-height: 1.5;
+      @media (max-width: 767px) {
+        font-size: 20px;
+      }
+    }
+  }
+
 }
 </style>
