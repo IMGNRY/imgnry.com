@@ -725,7 +725,7 @@
               '5a-flavors',
               '5b-wars',
               '5c-cheesemaze',
-              '5d -guldvarg',
+              '5d-guldvarg',
             ]"
             :name="`p-logo-${name}.png`"
             :key="name"
