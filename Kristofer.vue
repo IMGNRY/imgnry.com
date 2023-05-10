@@ -667,6 +667,8 @@ export default class App extends Vue {
 
     const trigger = new ScrollTrigger()
     trigger.add('[data-trigger]')
+
+    document.title = 'Kristofer Guldvarg'
   }
 }
 </script>
