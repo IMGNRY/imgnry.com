@@ -11,10 +11,12 @@
         "vue-class-component": "^7.1.0",
         "vue-hot-reload-api": "^2.3.4",
         "vue-plugin-load-script": "^1.2.0",
-        "vue-property-decorator": "^8.3.0"
+        "vue-property-decorator": "^8.3.0",
+        "vue-router": "^3.6.5"
     },
     "devDependencies": {
         "@vue/component-compiler-utils": "^3.0.2",
+        "@vue/runtime-dom": "^3.2.47",
         "parcel-plugin-static-files-copy": "^2.2.1",
         "sass": "^1.23.7",
         "typescript": "^3.7.2",
