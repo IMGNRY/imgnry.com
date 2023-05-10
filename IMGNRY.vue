@@ -366,7 +366,7 @@
               <div class="summary-wrapper">
                 <h3 class="everything">Project</h3>
                 <p class="project-paragraph">
-                  Long story short - During two years Kristofer pretty much redesigned every  page of Com Hem’s web. It was an epic journey.
+                  Long story short - During two years Kristofer pretty much redesigned every page of Com Hem’s web. It was an epic journey.
                 </p>
               </div>
               <div id="w-node-29909e0d7e52-aa056f6f" class="summary-wrapper">
