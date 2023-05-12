@@ -1,2 +1,2 @@
-fille.imgnry.com imgnry.com/fille 200
+https://fille.imgnry.com/* https://imgnry.com/fille/:splat 301!
 /*  /index.html  200
