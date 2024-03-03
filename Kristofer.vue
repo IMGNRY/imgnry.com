@@ -772,9 +772,14 @@ export default class App extends Vue {
       padding: 0 32px;
     }
 
+    @media (max-width: 720px) {
+      grid-template-columns: repeat(1, 1fr);
+      padding: 0 16px;
+    }
+
     > div {
       color: #fffbf3;
-      padding: 32px;
+      padding: 8px 32px;
       border-radius: 8px;
       background: rgba(255, 210, 95, 0.02);
 

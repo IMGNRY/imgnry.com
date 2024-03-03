@@ -935,7 +935,7 @@ h1 {
     margin-bottom: 10px;
   }
   .bouncing-arrow {
-    bottom: 100px;
+    display: none;
   }
   /* .nightsky-section {
     padding-bottom: 30%;
