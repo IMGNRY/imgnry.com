@@ -12,10 +12,41 @@
         data-w-id="34772d09-2899-03d5-0c54-f81ee4d21d8b"
         style="opacity:0;-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
       >
-        I’ve been passionate about creating digital content since my first Amiga in the 80s. I consider myself a full-stack designer meaning I’m
-        comfortable doing almost anything design related. However, my most prominent value nowadays is my knowledge of building scalable design
-        systems.
+        This portfolio showcases visual examples of what I deliver after using various methods and skill sets I've come to master after 25 years in
+        the business. Here are my most prominent areas:
       </p>
+      <div
+        class="areas"
+        data-w-id="34772d09-2899-03d5-0c54-f81ee4d21d8b"
+        style="opacity:0;-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
+      >
+        <div>
+          <h4 class="title">UX</h4>
+          <p>
+            Research, concepts, and interactive prototypes. User testing and interviews. All leading to a strong record of user-friendly and engaging
+            experiences.
+          </p>
+        </div>
+        <div>
+          <h4 class="title">UI</h4>
+          <p>
+            Gaping the bridge between UX and your graphical profile, securing consistency throughout your communication, and making you
+            WCAG-compliant.
+          </p>
+        </div>
+        <div>
+          <h4 class="title">Graphical profiles</h4>
+          <p>
+            Logotypes, typography, colors, etc. All combined to represent your brand values and goals while making a solid and positive presence.
+          </p>
+        </div>
+        <div>
+          <h4 class="title">Design systems</h4>
+          <p>
+            Well-organized, documented, scalable, and optimized for great collaborations with other designers and developers.
+          </p>
+        </div>
+      </div>
       <div
         data-w-id="fa8747dc-ed1e-8b22-bcd9-a271b5adbd11"
         data-animation-type="lottie"
@@ -85,7 +116,7 @@
             <lazy-img name="p-halebop-2d.png"></lazy-img>
           </div>
           <div class="w-layout-grid gallery-grid _1col">
-            <lazy-img name="p-halebop-3.png"></lazy-img>
+            <lazy-img name="p-halebop-3.png?v=2"></lazy-img>
           </div>
           <div class="w-layout-grid gallery-grid _1col">
             <lazy-img name="p-halebop-4.png"></lazy-img>
@@ -726,6 +757,36 @@ export default class App extends Vue {
     @media (max-width: 767px) {
       font-size: 20px;
       margin: 0 16px;
+    }
+  }
+  .areas {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    max-width: 1320px;
+    margin-top: 48px;
+    padding: 0 8px;
+
+    @media (max-width: 950px) {
+      grid-template-columns: repeat(2, 1fr);
+      padding: 0 32px;
+    }
+
+    > div {
+      color: #fffbf3;
+      padding: 32px;
+      border-radius: 8px;
+      background: rgba(255, 210, 95, 0.02);
+
+      > h4 {
+        font-size: 16px;
+      }
+
+      > p {
+        color: #fffbf3;
+        font-size: 18px;
+        line-height: 1.33;
+      }
     }
   }
 }
