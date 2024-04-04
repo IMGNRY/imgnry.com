@@ -66,7 +66,7 @@
         <div class="project">
           <div class="w-layout-grid project-title-row" data-trigger>
             <div class="project-title-line"></div>
-            <h2 class="project-title">The National Library of Sweden</h2>
+            <h2 class="project-title">The National<br/>Library of Sweden</h2>
             <div class="project-title-line"></div>
           </div>
           <div class="about-wrapper" data-trigger>
