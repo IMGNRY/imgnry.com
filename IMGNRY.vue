@@ -47,7 +47,7 @@
         <div class="project">
           <div class="w-layout-grid project-title-row" data-trigger>
             <div class="project-title-line"></div>
-            <h2 class="project-title">Biblioteket</h2>
+            <h2 class="project-title">The National Library of Sweden</h2>
             <div class="project-title-line"></div>
           </div>
           <div class="about-wrapper" data-trigger>
@@ -59,30 +59,34 @@
                 <img src="images/quote.svg" alt="" class="quote-character" />
                 <div class="quote-text-wrapper">
                   <blockquote class="quote-text">
-                    Kristofer was given the project scope to establish a new design system for Halebop and ended up not only delivering above and
-                    beyond the original scope, but he also became a core contributor in the Halebop team. His approach was refreshing and integral to
-                    where Halebop is today.
+                    Kristofer has laid the foundation for the form and design of our new Libris search exceptionally. It's evident that he enjoys 
+                    what he does! He is serious, systematic, and motivated, and with his extensive experience, he listens curiously to feedback 
+                    from others. Creativity combined with an eye for detail means that he delivers well-thought-out solutions beyond expectations.
                   </blockquote>
-                  <div class="quote-byline">Emma Craig, Head of Halebop</div>
+                  <div class="quote-byline">Maria Kadesjö, Head of Development and Design, National Library of Sweden</div>
                 </div>
               </div>
               <div class="summary-wrapper">
                 <h3 class="everything">Project</h3>
                 <p class="project-paragraph">
-                  Sweden's happiest telecom company! During my year, I made them a new design system to optimize, modernize and align their solid
-                  visual brand. I also redesigned most of the primary pages of their service, including the checkout flow.
+                  The Swedish National Library Authority granted Kristofer the privilege of creating a new graphical profile and completely 
+                  redesigning the user experience of their most prominent service, Libris. The primary goal was to develop a search service 
+                  that provides librarians and the people of Sweden with a straightforward way to find books and check their availability for 
+                  lending from local libraries.
                 </p>
               </div>
               <div id="w-node-342157ea9407-aa056f6f" class="summary-wrapper">
                 <h3 class="everything">Our role</h3>
                 <div class="tags-wrapper">
                   <div class="tag">Art Direction</div>
+                  <div class="tag">Graphic Profile</div>
+                  <div class="tag">Logo</div>
                   <div class="tag">Design System</div>
-                  <div class="tag">UI</div>
                   <div class="tag">UX</div>
+                  <div class="tag">UI</div>
                   <div class="tag">Web</div>
-                  <div class="tag">App</div>
                   <div class="tag">User testing</div>
+                  <div class="tag">WCAG</div>
                 </div>
               </div>
             </div>
@@ -91,16 +95,17 @@
             <lazy-img name="p-library-1.png"></lazy-img>
           </div>
           <div class="w-layout-grid gallery-grid">
-            <lazy-img name="p-halebop-2a.png"></lazy-img>
-            <lazy-img name="p-halebop-2b.png"></lazy-img>
-            <lazy-img name="p-halebop-2c.png"></lazy-img>
-            <lazy-img name="p-halebop-2d.png"></lazy-img>
+            <lazy-img name="p-library-2a.png"></lazy-img>
+            <lazy-img name="p-library-2b.png"></lazy-img>
+            <lazy-img name="p-library-2c.png"></lazy-img>
+            <lazy-img name="p-library-2d.png"></lazy-img>
+          </div>
+          <div class="w-layout-grid gallery-grid _2col">
+            <lazy-img name="p-library-3a.png"></lazy-img>
+            <lazy-img name="p-library-3b.png"></lazy-img>
           </div>
           <div class="w-layout-grid gallery-grid _1col">
-            <lazy-img name="p-halebop-3.png"></lazy-img>
-          </div>
-          <div class="w-layout-grid gallery-grid _1col">
-            <lazy-img name="p-halebop-4.png"></lazy-img>
+            <lazy-img name="p-library-4.png"></lazy-img>
           </div>
         </div>
         <div class="project">
