@@ -69,10 +69,11 @@
               <div class="summary-wrapper">
                 <h3 class="everything">Project</h3>
                 <p class="project-paragraph">
-                  The Swedish National Library Authority granted Kristofer the privilege of creating a new graphical profile and completely 
-                  redesigning the user experience of their most prominent service, Libris. The primary goal was to develop a search service 
-                  that provides librarians and the people of Sweden with a straightforward way to find books and check their availability for 
-                  lending from local libraries.
+                  The Swedish National Library Authority, a.k.a. Kungliga Biblioteket, granted me the privilege of creating a new graphical profile 
+                  and completely redesigning the user experience of their most prominent service, Libris. The primary goal was to develop a search 
+                  service that provides librarians and the people of Sweden with a straightforward way to find books and check their availability 
+                  for lending from local libraries.<br/>
+                  <a href="https://youtu.be/SZdT_-c-UoM">Video documentation in Swedish</a>
                 </p>
               </div>
               <div id="w-node-342157ea9407-aa056f6f" class="summary-wrapper">
@@ -105,7 +106,7 @@
             <lazy-img name="p-library-3b.png"></lazy-img>
           </div>
           <div class="w-layout-grid gallery-grid _1col">
-            <lazy-img name="p-library-4.png"></lazy-img>
+            <lazy-img name="p-library-4a.png"></lazy-img>
           </div>
         </div>
         <div class="project">

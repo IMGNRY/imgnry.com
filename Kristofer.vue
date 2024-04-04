@@ -13,7 +13,7 @@
         style="opacity:0;-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
       >
         This portfolio showcases visual examples of what I deliver after using various methods and skill sets I've come to master after 25 years in
-        the business. Here are my most prominent areas:
+        the business.<br/>Here are my most prominent areas:
       </p>
       <div
         class="areas"
@@ -63,6 +63,71 @@
     </div>
     <div class="projects-section">
       <div class="container-max-1320">
+        <div class="project">
+          <div class="w-layout-grid project-title-row" data-trigger>
+            <div class="project-title-line"></div>
+            <h2 class="project-title">The National Library of Sweden</h2>
+            <div class="project-title-line"></div>
+          </div>
+          <div class="about-wrapper" data-trigger>
+            <a data-w-id="21cc8097-8beb-dd68-cdfd-24c3b97416f6" href="#" class="button-about-project w-inline-block">
+              <div>DETAILS</div>
+            </a>
+            <div data-w-id="333849fc-cdf4-cf26-68aa-9be11dc69ae8" class="w-layout-grid project-about-section">
+              <div id="w-node-342157ea93fb-aa056f6f" class="quote-wrapper">
+                <img src="images/quote.svg" alt="" class="quote-character" />
+                <div class="quote-text-wrapper">
+                  <blockquote class="quote-text">
+                    Kristofer has laid the foundation for the form and design of our new Libris search exceptionally. It's evident that he enjoys 
+                    what he does! He is serious, systematic, and motivated, and with his extensive experience, he listens curiously to feedback 
+                    from others. Creativity combined with an eye for detail means that he delivers well-thought-out solutions beyond expectations.
+                  </blockquote>
+                  <div class="quote-byline">Maria Kadesjö, Head of Development and Design, National Library of Sweden</div>
+                </div>
+              </div>
+              <div class="summary-wrapper">
+                <h3 class="everything">Project</h3>
+                <p class="project-paragraph">
+                  The Swedish National Library Authority, a.k.a. Kungliga Biblioteket, granted me the privilege of creating a new graphical profile 
+                  and completely redesigning the user experience of their most prominent service, Libris. The primary goal was to develop a search 
+                  service that provides librarians and the people of Sweden with a straightforward way to find books and check their availability 
+                  for lending from local libraries.<br/>
+                  <a href="https://youtu.be/SZdT_-c-UoM">Video documentation in Swedish</a>
+                </p>
+              </div>
+              <div id="w-node-342157ea9407-aa056f6f" class="summary-wrapper">
+                <h3 class="everything">My role</h3>
+                <div class="tags-wrapper">
+                  <div class="tag">Art Direction</div>
+                  <div class="tag">Graphic Profile</div>
+                  <div class="tag">Logo</div>
+                  <div class="tag">Design System</div>
+                  <div class="tag">UX</div>
+                  <div class="tag">UI</div>
+                  <div class="tag">Web</div>
+                  <div class="tag">User testing</div>
+                  <div class="tag">WCAG</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="w-layout-grid gallery-grid _1col">
+            <lazy-img name="p-library-1.png"></lazy-img>
+          </div>
+          <div class="w-layout-grid gallery-grid">
+            <lazy-img name="p-library-2a.png"></lazy-img>
+            <lazy-img name="p-library-2b.png"></lazy-img>
+            <lazy-img name="p-library-2c.png"></lazy-img>
+            <lazy-img name="p-library-2d.png"></lazy-img>
+          </div>
+          <div class="w-layout-grid gallery-grid _2col">
+            <lazy-img name="p-library-3a.png"></lazy-img>
+            <lazy-img name="p-library-3b.png"></lazy-img>
+          </div>
+          <div class="w-layout-grid gallery-grid _1col">
+            <lazy-img name="p-library-4a.png"></lazy-img>
+          </div>
+        </div>
         <div class="project">
           <div class="w-layout-grid project-title-row" data-trigger>
             <div class="project-title-line"></div>
@@ -723,6 +788,9 @@ export default class App extends Vue {
 }
 
 .hero {
+  padding-left: 24px;
+  padding-right: 24px;
+
   img {
     margin-bottom: 48px;
     @media (max-width: 767px) {
@@ -762,10 +830,9 @@ export default class App extends Vue {
   .areas {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 8px;
+    gap: 16px;
     max-width: 1320px;
     margin-top: 48px;
-    padding: 0 8px;
 
     @media (max-width: 950px) {
       grid-template-columns: repeat(2, 1fr);

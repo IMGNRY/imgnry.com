@@ -55,7 +55,7 @@ p {
 a {
   -webkit-transition: color 200ms ease;
   transition: color 200ms ease;
-  color: #191919;
+  color: #ffd25f;
 }
 
 a:hover {
