@@ -12,9 +12,11 @@
         data-w-id="34772d09-2899-03d5-0c54-f81ee4d21d8b"
         style="opacity:0;-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
       >
-        This portfolio showcases visual examples of what I deliver after using various methods and skill sets I've come to master after 25 years in
-        the business.<br/>Here are my most prominent areas:
+        My expertise lies in the iterative process of researching, conceptualizing, prototyping, testing, designing, and refining digital products 
+        and services. Often working in engaging collaboration with cross-functional teams, I have achieved successful results showcased in this portfolio.
       </p>
+
+      <!-- 
       <div
         class="areas"
         data-w-id="34772d09-2899-03d5-0c54-f81ee4d21d8b"
@@ -47,6 +49,7 @@
           </p>
         </div>
       </div>
+      -->
       <div
         data-w-id="fa8747dc-ed1e-8b22-bcd9-a271b5adbd11"
         data-animation-type="lottie"
