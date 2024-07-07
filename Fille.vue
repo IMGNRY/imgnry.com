@@ -9,7 +9,7 @@
 
       <p class="intro">
         As a developer with 25+ years of experience, I consider myself a generalist who takes pleasure in engaging with every aspect of the stack. I
-        have a strong passion for learning and experimenting, and I utilize tools like Co-Pilot and GPT-4 to enhance my developer performance.
+        have a strong passion for learning and experimenting, and I like to utilize AI tools like Co-Pilot, ChatGPT and Claude to enhance my developer performance.
       </p>
       <!-- <p class="intro">
         As a developer with 25 years of experience, I consider myself a generalist who takes pleasure in engaging with every aspect of the stack, from
