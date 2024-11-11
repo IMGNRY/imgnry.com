@@ -5,7 +5,7 @@
 
       <img src="/images/crest.svg" class="crest" />
       <h1>Kristofer Guldvarg</h1>
-      <p class="title">Full stack Designer</p>
+      <p class="title">Senior UX/UI Designer</p>
 
       <p
         class="intro"
