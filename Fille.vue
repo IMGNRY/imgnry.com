@@ -30,6 +30,59 @@
         <div class="project">
           <div class="w-layout-grid project-title-row" data-trigger>
             <div class="project-title-line"></div>
+            <h2 class="project-title">Guestrix</h2>
+            <div class="project-title-line"></div>
+          </div>
+          <div class="about-wrapper" data-trigger>
+            <a data-w-id="guestrix-details-btn" href="#" class="button-about-project w-inline-block">
+              <div>DETAILS</div>
+            </a>
+            <div data-w-id="guestrix-about-section" class="w-layout-grid project-about-section">
+              <div id="w-node-guestrix-quote" class="quote-wrapper">
+                <img src="images/quote.svg" alt="" class="quote-character" />
+                <div class="quote-text-wrapper">
+                  <blockquote class="quote-text">
+                    Working with Fille was great from day one. He's a down-to-earth, dependable developer who quickly understands both the technical
+                    and product side of things. Fille is the kind of person you feel comfortable giving ownership to, knowing the job will get done
+                    well.
+                  </blockquote>
+                  <div class="quote-byline">Linus Lennstrand, CEO</div>
+                </div>
+              </div>
+              <div class="summary-wrapper">
+                <h3 class="everything">Project</h3>
+                <p class="project-paragraph">
+                  Guestrix is an analytics platform for restaurants, combining data from POS, staffing, and booking systems into customizable
+                  dashboards with real-time KPIs and performance insights.
+                </p>
+              </div>
+              <div id="w-node-guestrix-tags" class="summary-wrapper">
+                <h3 class="everything">buzzwords</h3>
+                <div class="tags-wrapper">
+                  <div class="tag">clickhouse</div>
+                  <div class="tag">ETL</div>
+                  <div class="tag">node.js</div>
+                  <div class="tag">mongodb</div>
+                  <div class="tag">typescript</div>
+                  <div class="tag">react</div>
+                  <div class="tag">digital ocean</div>
+                  <div class="tag">ai</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="w-layout-grid gallery-grid _2col">
+            <lazy-img name="p-guestrix-1a.png"></lazy-img>
+            <lazy-img name="p-guestrix-1b.png"></lazy-img>
+            <lazy-img name="p-guestrix-2a.png"></lazy-img>
+            <lazy-img name="p-guestrix-2b.png"></lazy-img>
+            <lazy-img name="p-guestrix-3a.png"></lazy-img>
+            <lazy-img name="p-guestrix-3b.png"></lazy-img>
+          </div>
+        </div>
+        <div class="project">
+          <div class="w-layout-grid project-title-row" data-trigger>
+            <div class="project-title-line"></div>
             <h2 class="project-title">Picular</h2>
             <div class="project-title-line"></div>
           </div>

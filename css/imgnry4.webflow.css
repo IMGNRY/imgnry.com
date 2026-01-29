@@ -70,10 +70,10 @@ blockquote {
   margin-bottom: 6px;
   padding: 0px;
   border-left-style: none;
-  font-family: caflisch-script-pro, sans-serif;
+  font-family: 'Breakers Light', sans-serif;
   color: #191919;
-  font-size: 24px;
-  line-height: 30px;
+  font-size: 22px;
+  line-height: 1.4;
 }
 
 .container-max-1320 {
@@ -98,7 +98,7 @@ blockquote {
   -ms-grid-row-align: center;
   align-self: center;
   color: #ffd25f;
-  font-size: 48px;
+  font-size: 54px;
   text-align: center;
   white-space: nowrap;
   line-height: 1;
@@ -177,8 +177,8 @@ blockquote {
 .quote-text {
   margin-bottom: 12px;
   color: #fffaf5;
-  font-size: 24px;
-  line-height: 1.2;
+  font-size: 22px;
+  line-height: 1.4;
   font-weight: 400;
   letter-spacing: 0.3px;
 }
@@ -186,8 +186,8 @@ blockquote {
 .quote-byline {
   font-family: 'Breakers Regular', sans-serif;
   color: #ffd25f;
-  font-size: 14px;
-  line-height: 15px;
+  font-size: 16px;
+  line-height: 1.2;
   letter-spacing: 0.3px;
 }
 
@@ -205,7 +205,7 @@ blockquote {
 .project-paragraph {
   margin-bottom: 0px;
   color: #fffaf5;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.4;
   letter-spacing: 0.3px;
 }
@@ -579,8 +579,8 @@ html.w-mod-js *[data-ix='fadeinonload2'] {
     line-height: 32px;
   }
   blockquote {
-    font-size: 20px;
-    line-height: 24px;
+    font-size: 18px;
+    line-height: 1.4;
   }
   .container-max-1320 {
     margin-right: 18px;
