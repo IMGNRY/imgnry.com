@@ -908,7 +908,9 @@
           </h1>
           <div class="profiles">
             <div class="profile">
-              <lazy-img name="photo-kristofer.png" class="photo"></lazy-img>
+              <router-link to="/kristofer" class="photo-link">
+                <lazy-img name="photo-kristofer.png" class="photo"></lazy-img>
+              </router-link>
               <h2 data-trigger>Kristofer</h2>
               <div class="title" data-trigger>Designer</div>
               <div class="description" data-trigger>
@@ -918,7 +920,9 @@
               </div>
             </div>
             <div class="profile">
-              <lazy-img name="photo-fille.png" class="photo"></lazy-img>
+              <router-link to="/fille" class="photo-link">
+                <lazy-img name="photo-fille.png" class="photo"></lazy-img>
+              </router-link>
               <h2 data-trigger>Fille</h2>
               <div class="title" data-trigger>Developer</div>
               <div class="description" data-trigger>
@@ -1036,6 +1040,16 @@ export default class App extends Vue {
       flex: 1;
       // padding: 0 40px;
       margin: 40px 0;
+    }
+
+    .photo-link {
+      display: block;
+      transition: transform 0.3s ease, opacity 0.3s ease;
+
+      &:hover {
+        transform: scale(1.02);
+        opacity: 0.9;
+      }
     }
 
     .photo {

@@ -765,7 +765,7 @@ export default class App extends Vue {
   arrowHidden = false
 
   async mounted() {
-    await this.$loadScript('/js/webflow-kristofer.js')
+    await this.$loadScript('/js/webflow.js')
 
     const trigger = new ScrollTrigger()
     trigger.add('[data-trigger]')

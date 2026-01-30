@@ -13,10 +13,18 @@ Vue.use(VueRouter)
 import Kristofer from './Kristofer.vue'
 import Fille from './Fille.vue'
 
+const loadedScripts = new Set<string>()
+
 Vue.use({
   install(Vue) {
-    Vue.prototype.$loadScript = function(path) {
-      return new Promise((resolve, reject) => {
+    Vue.prototype.$loadScript = function(path: string) {
+      // Don't load the same script twice
+      if (loadedScripts.has(path)) {
+        return Promise.resolve()
+      }
+      loadedScripts.add(path)
+      
+      return new Promise<void>((resolve, reject) => {
         const script = document.createElement('script')
         script.type = 'text/javascript'
         script.async = true
@@ -40,6 +48,13 @@ const routes = [
 const router = new VueRouter({
   mode: 'history',
   routes,
+  scrollBehavior(to, from, savedPosition) {
+    if (savedPosition) {
+      return savedPosition
+    } else {
+      return { x: 0, y: 0 }
+    }
+  },
 })
 
 document.addEventListener('DOMContentLoaded', () => {
