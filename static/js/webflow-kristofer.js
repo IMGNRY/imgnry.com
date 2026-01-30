@@ -18424,9 +18424,9 @@ Webflow.require('ix2').init({
               id: 'a-3-n',
               actionTypeId: 'STYLE_OPACITY',
               config: {
-                delay: 6000,
+                delay: 1000,
                 easing: '',
-                duration: 2000,
+                duration: 1000,
                 target: { id: '5dd67ddb43540990aa056f6f|fa8747dc-ed1e-8b22-bcd9-a271b5adbd11' },
                 value: 1,
                 unit: '',

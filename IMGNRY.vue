@@ -40,6 +40,7 @@
         data-default-duration="1.0010009602293968"
         data-duration="0"
         class="lottie-animation-3 bouncing-arrow"
+        :class="{ hidden: arrowHidden }"
       ></div>
     </div>
     <div class="projects-section">
@@ -946,11 +947,25 @@ import ScrollTrigger from '@terwanerik/scrolltrigger'
   components: { LazyImg, Spinner },
 })
 export default class App extends Vue {
+  arrowHidden = false
+
   async mounted() {
     await this.$loadScript('/js/webflow.js')
 
     const trigger = new ScrollTrigger()
     trigger.add('[data-trigger]')
+
+    window.addEventListener('scroll', this.onScroll, { passive: true })
+  }
+
+  beforeDestroy() {
+    window.removeEventListener('scroll', this.onScroll)
+  }
+
+  onScroll() {
+    if (window.scrollY > 50) {
+      this.arrowHidden = true
+    }
   }
 }
 </script>
@@ -971,6 +986,33 @@ export default class App extends Vue {
 }
 .gallery-image {
   background: rgb(19, 19, 19);
+}
+
+.bouncing-arrow {
+  opacity: 0;
+  animation: fadeInArrow 1s ease-out 1s forwards;
+
+  &.hidden {
+    animation: fadeOutArrow 0.5s ease-out forwards;
+  }
+}
+
+@keyframes fadeInArrow {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOutArrow {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
 }
 .founders {
   h1 {
