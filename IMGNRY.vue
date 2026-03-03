@@ -19,7 +19,7 @@
         data-w-id="34772d09-2899-03d5-0c54-f81ee4d21d8b"
         style="opacity:0;-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
       >
-        We create digital glory for mighty corporations, award winning agencies and for the simple love of it.
+        We’re a creative studio building digital experiences. <br />For clients, for players, and for the simple love of making things.
       </h1>
       <a
         href="mailto:hello@imgnry.com"
@@ -903,7 +903,7 @@
             <div class="project-title-line"></div>
           </div>
           <h1 data-trigger>
-            Kristofer and Fille, who first met in school, began collaborating on various eccentric hobby projects in the 90s. They eventually
+            Kristofer and Fille, who first met in school, began collaborating on various eccentric hobby projects in the '90s. They eventually
             established IMGNRY in 2012, and are currently based in Stockholm, Sweden, where they live and work.
           </h1>
           <div class="profiles">
@@ -914,8 +914,8 @@
               <h2 data-trigger>Kristofer</h2>
               <div class="title" data-trigger>Designer</div>
               <div class="description" data-trigger>
-                Having developed a passion for creating digital content since acquiring his first Amiga in the 80s, he has become a versatile
-                full-stack designer, skilled in various design-related tasks. Today, his most significant contribution lies in his expertise in
+                Having developed a passion for creating digital content since acquiring his first Amiga in the 80s, he has become a versatile UX/UI
+                Designer designer, skilled in various design-related tasks. Today, his most significant contribution lies in his expertise in
                 constructing scalable design systems.
               </div>
             </div>
@@ -926,9 +926,8 @@
               <h2 data-trigger>Fille</h2>
               <div class="title" data-trigger>Developer</div>
               <div class="description" data-trigger>
-                With 25 years of experience as a full-stack developer, he is a technological generalist who enjoys being involved in every layer of
-                the stack, from the database to the user interface. He has a passion for learning and experimenting, leveraging tools like Co-Pilot
-                and GPT-4 to boost his developer experience and performance.
+                With 25+ years of experience as a developer, he considers himself a generalist who takes pleasure in engaging with every aspect of the
+                stack. He has a strong passion for learning and experimenting, and likes to utilize AI tools to enhance his developer performance.
               </div>
             </div>
           </div>
