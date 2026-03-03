@@ -12,8 +12,8 @@
         data-w-id="34772d09-2899-03d5-0c54-f81ee4d21d8b"
         style="opacity:0;-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
       >
-        My expertise lies in the iterative process of researching, conceptualizing, prototyping, testing, designing, and refining digital products 
-        and services. Often working in engaging collaboration with cross-functional teams, I have achieved successful results showcased in this portfolio.
+        My expertise lies in the iterative process of researching, conceptualizing, prototyping, testing, designing, and refining digital products and
+        services. Often working in engaging collaboration with cross-functional teams, I have achieved successful results showcased in this portfolio.
       </p>
 
       <!-- 
@@ -70,7 +70,7 @@
         <div class="project">
           <div class="w-layout-grid project-title-row" data-trigger>
             <div class="project-title-line"></div>
-            <h2 class="project-title">The National<br/>Library of Sweden</h2>
+            <h2 class="project-title">The National<br />Library of Sweden</h2>
             <div class="project-title-line"></div>
           </div>
           <div class="about-wrapper" data-trigger>
@@ -82,9 +82,9 @@
                 <img src="images/quote.svg" alt="" class="quote-character" />
                 <div class="quote-text-wrapper">
                   <blockquote class="quote-text">
-                    Kristofer has laid the foundation for the form and design of our new Libris search exceptionally. It's evident that he enjoys 
-                    what he does! He is serious, systematic, and motivated, and with his extensive experience, he listens curiously to feedback 
-                    from others. Creativity combined with an eye for detail means that he delivers well-thought-out solutions beyond expectations.
+                    Kristofer has laid the foundation for the form and design of our new Libris search exceptionally. It's evident that he enjoys what
+                    he does! He is serious, systematic, and motivated, and with his extensive experience, he listens curiously to feedback from
+                    others. Creativity combined with an eye for detail means that he delivers well-thought-out solutions beyond expectations.
                   </blockquote>
                   <div class="quote-byline">Maria Kadesjö, Head of Development and Design, National Library of Sweden</div>
                 </div>
@@ -92,10 +92,10 @@
               <div class="summary-wrapper">
                 <h3 class="everything">Project</h3>
                 <p class="project-paragraph">
-                  The Swedish National Library Authority, a.k.a. Kungliga Biblioteket, granted me the privilege of creating a new graphical profile 
-                  and completely redesigning the user experience of their most prominent service, Libris. The primary goal was to develop a search 
-                  service that provides librarians and the people of Sweden with a straightforward way to find books and check their availability 
-                  for lending from local libraries.<br/>
+                  The Swedish National Library Authority, a.k.a. Kungliga Biblioteket, granted me the privilege of creating a new graphical profile
+                  and completely redesigning the user experience of their most prominent service, Libris. The primary goal was to develop a search
+                  service that provides librarians and the people of Sweden with a straightforward way to find books and check their availability for
+                  lending from local libraries.<br />
                   <a href="https://youtu.be/SZdT_-c-UoM">Video documentation in Swedish</a>
                 </p>
               </div>
@@ -297,8 +297,8 @@
               <div class="summary-wrapper">
                 <h3 class="everything">Project</h3>
                 <p class="project-paragraph">
-                  The current inhouse project can fairly be called digital hybris. Our two-man-crew aim to beat Google, Apple, Adobe and Microsoft in
-                  building the worlds greatest photo organizing service.
+                  This project can fairly be called digital hybris. Our two-man-crew aimed to beat Google, Apple, Adobe and Microsoft in building the
+                  worlds greatest photo organizing service.
                 </p>
               </div>
               <div id="w-node-84e6cccc430f-aa056f6f" class="summary-wrapper">

@@ -328,8 +328,8 @@
               <div class="summary-wrapper">
                 <h3 class="everything">Project</h3>
                 <p class="project-paragraph">
-                  The current inhouse project can fairly be called digital hybris. Our two-man-crew aim to beat Google, Apple, Adobe and Microsoft in
-                  building the worlds greatest photo organizing service.
+                  This project can fairly be called digital hybris. Our two-man-crew aimed to beat Google, Apple, Adobe and Microsoft in building the
+                  worlds greatest photo organizing service.
                 </p>
               </div>
               <div id="w-node-84e6cccc430f-aa056f6f" class="summary-wrapper">
