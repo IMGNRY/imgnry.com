@@ -242,8 +242,10 @@ blockquote {
   align-items: center;
   padding-bottom: 10%;
   height: 100vh;
+  min-height: 100vh;
   @media (max-width: 1320px) {
-    height: unset;
+    height: 100vh;
+    min-height: 100vh;
     padding-top: 40px;
   }
 }
@@ -934,9 +936,9 @@ h1 {
     max-width: 290px;
     margin-bottom: 10px;
   }
-  .bouncing-arrow {
+  /* .bouncing-arrow {
     display: none;
-  }
+  } */
   /* .nightsky-section {
     padding-bottom: 30%;
   } */

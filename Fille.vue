@@ -697,7 +697,7 @@ export default class App extends Vue {
 
 .bouncing-arrow {
   opacity: 0;
-  animation: fadeInArrow 1s ease-out 1s forwards;
+  animation: fadeInArrow 1s ease-out 4s forwards;
 
   &.hidden {
     animation: fadeOutArrow 0.5s ease-out forwards;

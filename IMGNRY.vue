@@ -52,7 +52,7 @@
             <div class="project-title-line"></div>
           </div>
           <div class="about-wrapper" data-trigger>
-            <a data-w-id="guestrix-details-btn" href="#" class="button-about-project w-inline-block">
+            <a data-w-id="21cc8097-8beb-dd68-cdfd-24c3b97416f6" href="#" class="button-about-project w-inline-block">
               <div>DETAILS</div>
             </a>
             <div data-w-id="guestrix-about-section" class="w-layout-grid project-about-section">
@@ -993,7 +993,7 @@ export default class App extends Vue {
 
 .bouncing-arrow {
   opacity: 0;
-  animation: fadeInArrow 1s ease-out 1s forwards;
+  animation: fadeInArrow 1s ease-out 3s forwards;
 
   &.hidden {
     animation: fadeOutArrow 0.5s ease-out forwards;

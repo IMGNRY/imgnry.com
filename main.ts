@@ -30,7 +30,9 @@ Vue.use({
         script.async = true
         script.onload = () => resolve()
         script.onerror = () => reject(new Error('Failed to load script: ' + path))
-        script.src = path
+        // Cache-bust webflow.js so edits to static/js/webflow.js are picked up (avoids Parcel/browser cache)
+        const src = path === '/js/webflow.js' ? path + '?v=2' : path
+        script.src = src
         document.head.appendChild(script)
       })
     }
