@@ -915,8 +915,8 @@
               <div class="title" data-trigger>Designer</div>
               <div class="description" data-trigger>
                 Having developed a passion for creating digital content since acquiring his first Amiga in the 80s, he has become a versatile UX/UI
-                Designer designer, skilled in various design-related tasks. Today, his most significant contribution lies in his expertise in
-                constructing scalable design systems.
+                designer, skilled in various design-related tasks. Today, his most significant contribution lies in his expertise in constructing
+                scalable design systems.
               </div>
             </div>
             <div class="profile">
